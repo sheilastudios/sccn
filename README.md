@@ -6,7 +6,7 @@ This repository begins with one bounded public research release, **Unthink scene
 
 ## Public research: Unthink
 
-[Read the study](research/unthink/REPORT.md) · [Inspect the evidence](research/unthink/evidence/) · [Read the field note](https://sheilastudios.com/field-notes/what-survives-when-sentences-do-not)
+[Hugging Face research discussion](https://discuss.huggingface.co/t/sccn-unthink-semantic-scene-reconstruction-across-seven-model-surface-configurations/191277) · [Read the study](research/unthink/REPORT.md) · [Inspect the evidence](research/unthink/evidence/) · [Read the field note](https://sheilastudios.com/field-notes/what-survives-when-sentences-do-not)
 
 Three early scene packets, seven model/surface configurations, 63 slice-only replies. The study examines semantic reconstruction rather than verbatim decompression. Methods, saved outcomes, failures, provenance and limitations accompany the report. These results are specific to the tested material; they do not establish universal compression or model-family superiority.
 

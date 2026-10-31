@@ -37,6 +37,6 @@ These packets helped open a broader line of work on relationships, constraints a
 
 **The question began with what a model could reconstruct. It grew into what a compact representation could help it do.**
 
-[Explore SCCN on GitHub](https://github.com/sheilastudios/sccn) · [Read the full report](/downloads/sccn-unthink-v1/report.html) · [Download the evidence package](/downloads/sccn-unthink-v1/sccn-unthink-v1.zip)
+[Discuss the research on Hugging Face](https://discuss.huggingface.co/t/sccn-unthink-semantic-scene-reconstruction-across-seven-model-surface-configurations/191277) · [Explore SCCN on GitHub](https://github.com/sheilastudios/sccn) · [Read the full report](/downloads/sccn-unthink-v1/report.html) · [Download the evidence package](/downloads/sccn-unthink-v1/sccn-unthink-v1.zip)
 
 Sheila Studios · Research direction: James Mayo. Original experiment: Seam. Publication synthesis: Sheila, with Arden's release review. AI-assisted research; bounded results, not a universal compression claim.
