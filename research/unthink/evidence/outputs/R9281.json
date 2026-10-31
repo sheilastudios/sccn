@@ -1,0 +1,44 @@
+{
+ "request_id": "ch01_opening_only-s2",
+ "case_id": "ch01_opening_only",
+ "arm": "ch01_opening_only",
+ "replicate": 2,
+ "model": "gpt-6-astra",
+ "effort": "medium",
+ "request_sha256": "922dc56dc49f3a56452bb2708b76a8267913005c7c9bb894ff5f945c784b7bca",
+ "source_sha256": [
+  "9f6e719f466ea297c18c98ee6f66083c4d2cb9d0e16a4fcc4b82572023015f35"
+ ],
+ "started": "2026-10-22T05:49:04.209Z",
+ "content": "Touma noticed the man’s hand before he noticed the boy.\n\nThe headache was already blooming.\n\nThat was the first warning.\n\nThe old transit station’s lights were too sharp. Everything seemed to have extra edges, and the vending machine’s hum was too loud.\n\nThe second warning followed: a man in a gray coat was steering a boy toward a service gate. One hand was closed around the boy’s wrist. The other stayed inside his coat.\n\nTouma started moving.\n\nThe boy was a small-built teenager with a school bag hanging from one shoulder. The man moved with the dull confidence of someone carrying out a procedure. Around them, strangers checked departure times, watched their feet, and found reasons to look elsewhere.\n\nThe boy wasn’t struggling. His face held a blank terror, beyond pleading, as though he no longer expected anyone to understand what was happening.\n\nTouma understood enough.\n\nTrouble outside your head could be outrun. Trouble inside your skull came with you. He was used to trouble, and tired of it.\n\nIt was not gallantry. It was recognition.\n\nSix steps brought him close enough.\n\n“Hey.”\n\nThe man glanced at him without stopping.\n\nAnd Touma caught the thought.\n\n*Keep moving. Keep the kid quiet. Finish the handoff.*\n\nIt had the hard, narrow shape of an instruction. Touma touched it—not with his hands, but with something that felt like setting a paperknife to the edge of a thought.\n\nThen he unthought it.\n\nFor an instant, the pain was a pin driven through the inside of the world.\n\nThe man’s hand opened.\n\nThe boy stumbled backward, clutching at his school bag. The man lurched as though his body had a private appointment with gravity and had only just remembered it. His other hand came out of his coat to catch the gate.\n\nFor half a second, that was enough.\n\nThe boy was free. The handoff had stopped. Touma let himself breathe.\n\nThen the second half arrived.\n\nHis memory hiccupped.\n\nThe boy looked up at him, and Touma felt something slip. There had been familiarity in that face. He was certain of it, though he could no longer find what had made it familiar.\n\nHe searched for it and found nothing.\n\nThe boy was still standing in front of him. The school bag was still hanging from his shoulder. Nothing visible had changed.\n\nThat was the clean, quiet cruelty of it.\n\nTouma was looking at a stranger.",
+ "finish": "stop",
+ "outcome": "content",
+ "model_returned": "gpt-6-astra",
+ "codexUsage": {
+  "total": {
+   "totalTokens": 5103,
+   "inputTokens": 4603,
+   "cachedInputTokens": 3072,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 500,
+   "reasoningOutputTokens": 0
+  },
+  "last": {
+   "totalTokens": 5103,
+   "inputTokens": 4603,
+   "cachedInputTokens": 3072,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 500,
+   "reasoningOutputTokens": 0
+  },
+  "modelContextWindow": 258400
+ },
+ "timing": {
+  "turnStartSentAt": "2026-10-22T05:49:05.775Z",
+  "turnStartAcknowledgedAt": "2026-10-22T05:49:05.795Z",
+  "turnStartedNotificationAt": "2026-10-22T05:49:05.795Z",
+  "terminalNotificationAt": "2026-10-22T05:49:33.501Z"
+ },
+ "elapsed_s": 29.352,
+ "incomplete": false
+}

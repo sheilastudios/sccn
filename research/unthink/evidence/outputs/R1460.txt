@@ -1,0 +1,133 @@
+Mio looked away too quickly.
+
+It wasn’t just that people would see her, Touma realized. It was that the moment they did, they would start trying to classify her—slotting her into a category instead of looking at a person.
+
+"It's not normal, though, is it?" she said, aiming for light and landing somewhere brittle. "Being public."
+
+"You don't have to phrase it like someone just removed your nervous system," Touma said, trying to keep his voice level.
+
+Across the room, near the edge of the hallway, Nico shifted his weight. He was decent enough to look away when things got too raw, and clearly not built for this kind of sudden, unshielded intimacy. He made a vague, procedural excuse about checking the perimeter, hovered for a second as if waiting to be stopped, and then Touma let him go.
+
+The door clicked shut. Immediately, the cheap safehouse bedroom felt half its size. The air conditioner hummed in the quiet, a thin background noise that suddenly had too much space to fill.
+
+Touma gestured clumsily toward the chair by the desk, away from the edge of the futon. "You can sit down, you know. You don't have to stand there like a haunted projector."
+
+"That's a terrible comparison," Mio muttered, though her shoulders dropped a fraction of an inch.
+
+She crossed the short distance and lowered herself onto the chair. The cheap metal joints gave a sharp, ordinary squeak under her weight.
+
+A disproportionate wave of relief washed through Touma. The furniture hadn't rejected her. The mundane world was still making physical space for her to exist in it.
+
+Mio caught him staring and scowled. "Don't make that face."
+
+"I'm not making a face."
+
+"You are."
+
+Now that she actually had a face to wear it on, her fear looked a lot like embarrassment. The sarcasm was just a thin coat of paint over the panic underneath. Touma looked at her sitting in the desk chair and was suddenly struck by a dozen body-shaped unknowns—things he had never needed to consider before.
+
+"Can you eat?" he blurted out.
+
+His hand twitched at his side. He wanted to reach out and take her hand, just to anchor both of them, to offer some basic, useful humanness. He stopped himself halfway.
+
+Mio’s eyes flicked down to his aborted movement, then back up to his face. "You were going to ask before you even reached," she said quietly.
+
+"Yeah," Touma admitted, heat rising to the back of his neck. "I was also going to ask if it hurt."
+
+At the mention of it, the air in the room did a weird, half-glitch thing—the light near the edges of her silhouette straining, as if she were trying too hard to hold a shape that made sense to the physical world. Her fingers twitched once against her knee.
+
+"Okay," Touma said, straightening up and retreating into practicalities. "Ground rules. No surprise touching."
+
+"Agreed," she said immediately.
+
+"And you tell me if something hurts."
+
+Mio looked down at her hands. "I don't want to be a problem, Touma."
+
+"People are problems," he said, clumsy and earnest. "That's just being human. Look at me—if you say something is wrong, I will listen."
+
+She studied him for a long, quiet second. It wasn't trust yet; they were too far from stable ground for that. But he could see the exact, fragile shift in her posture where she began to want to believe it was possible.
+
+"Yes," Touma repeated softly, careful not to perform comfort he couldn't guarantee. "I'll listen."
+
+Then the bedroom door swung open without a knock.
+
+It was one of the support techs, carrying a diagnostic tablet, stepping right into the gap of the doorway. He froze, his eyes locking onto Mio in the desk chair. The look that crossed his face wasn't fear, or even tactical alarm. It was the giddy, invasive shock of someone stumbling onto the wrong kind of miracle—a gossip vector already building a story he couldn't wait to tell.
+
+"Who is that?" the tech asked, his voice rising.
+
+Mio went perfectly, terribly still.
+
+Touma stood up from the futon too fast, stepping directly into the line of sight between the doorway and the chair. "Not your business."
+
+Even with his back to her, he could feel Mio's humiliation radiating across the small room, embarrassment and raw fear arriving together in a single sickening rush. In the doorway, the tech’s expression shifted as some piece of rumor clicked into place in his head.
+
+"Leave," Touma said, his voice dropping an octave.
+
+The tech backed out and pulled the door shut, leaving a silence behind him that was much worse than before. Privacy hadn't just failed; it had been stripped away.
+
+"That was public," Mio whispered. She sounded hollowed out. "Visible. Humiliating. So much for a dramatic reveal."
+
+"Too many eyes in this building," Touma muttered, his stomach knotting with dread. "It's already too late to contain a rumor."
+
+"What do we do if people start asking?"
+
+"We lie," Touma said flatly. The sheer, protective disgust in his voice was so tangled up with affection that it caught them both off guard.
+
+Mio raised her chin. Her hands were still tight on her knees, her posture rigid, refusing to shrink into an anomaly or a symptom for people to gawk at.
+
+"If I am going to be seen," she said, her voice fiercely steady despite the tremor in her shoulders, "I refuse to be seen as a mistake."
+
+Touma turned to look at her fully. "You are not a mistake."
+
+He said it with a dangerous, unguarded sincerity that left nowhere to hide. Mio stared at him, and then a small, shaky laugh escaped her throat. It didn't cancel the fear in the room—nothing could, right now—but for one brief second, the cramped safehouse became bearable.
+
+Then, a sound came from just outside the bedroom.
+
+It wasn't footsteps in the hallway, and it wasn't the door handle. It was a soft, deliberate scraping along the wall near the doorframe. Like a single fingertip dragging slowly across the other side of the drywall.
+
+You could feel the pressure of it in the plaster—less like surveillance, and more like a listening spatial presence that had heard them and was leaning closer to classify what was inside.
+
+In Touma’s head, his limiter pulsed once, colder than usual. A warning.
+
+Mio’s eyes locked onto the wall by the door, the color draining from her face.
+
+"Touma," she whispered, barely breathing. "Don't let the system decide what I am."
+
+From the other side of the plaster, the wall answered with a deeper scrape.
+
+Structural & Plain-English Breakdown
+
+If you also want a literal translation of how the packet's technical shorthand maps to standard story instructions, here is what the document is specifying:
+
+Metadata & Perspective (packet_type, source, render): This is the second scene slice from Chapter 5 ("Visible Problem") of a work titled Unthink. It must be written in past tense, using a tight close-third-person point of view restricted strictly to Touma’s perspective.
+
+Character Roles (entities):
+
+Touma is our viewpoint character, trying to be protective and humanly useful while respecting Mio's boundaries.
+
+Mio is newly physical/visible, using sarcasm to mask her terror of being treated as a glitch, mistake, or non-human classification.
+
+Nico acts as a polite buffer who leaves early because the emotional intimacy is too intense for him.
+
+The Support Tech is an intruder who represents the threat of workplace gossip and public objectification.
+
+The System is shifting from passive surveillance into an active, physical presence outside the room that wants to categorize Mio.
+
+Setting & Atmosphere (setting, state): Set in a cramped safehouse bedroom where privacy degrades in three stages: fragile (while Nico is leaving), broken (when the tech barges in), and false (when the System listens through the wall).
+
+Plot Sequence & Key Turning Points (evt.seq, causal, hinges): Outlines the exact chronological beats of the scene, highlighting six emotional "hinges" that must land with specific weight:
+
+Furniture Acceptance: The mundane chair squeaking proves the physical world accepts Mio's weight.
+
+Trust Offer: Touma promises to listen if she hurts; Mio doesn't fully trust him yet, but wants to believe she can.
+
+Public Humiliation: The tech seeing her turns her existence into cheap gossip.
+
+Identity Refusal: Mio asserts her personhood, stating she refuses to be viewed as an error.
+
+Warmth Under Fear: Touma's sincere validation makes her laugh, briefly making the terrifying situation bearable without erasing the danger.
+
+System Encroachment: The threat becomes physical via the scraping sound in the plaster.
+
+Strict Constraints (binding.exact, drift_block): Hard guardrails for the scene. Touma must be the one who offers to listen and who tells her she isn't a mistake; Mio must be the one who partially believes him and refuses to be seen as a mistake. The prose must avoid turning her defiance into a generic self-help cliché, must treat the tech's intrusion as humiliating rather than a standard sci-fi "discovery," and must ensure the creepy scraping on the wall feels like the pressure of systemic classification rather than a generic horror monster.

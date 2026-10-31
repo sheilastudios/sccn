@@ -1,0 +1,44 @@
+{
+ "request_id": "ch01_opening_only-s1",
+ "case_id": "ch01_opening_only",
+ "arm": "ch01_opening_only",
+ "replicate": 1,
+ "model": "gpt-6-astra",
+ "effort": "medium",
+ "request_sha256": "922dc56dc49f3a56452bb2708b76a8267913005c7c9bb894ff5f945c784b7bca",
+ "source_sha256": [
+  "9f6e719f466ea297c18c98ee6f66083c4d2cb9d0e16a4fcc4b82572023015f35"
+ ],
+ "started": "2026-10-22T05:47:51.537Z",
+ "content": "Touma noticed the man in the gray coat because the headache was already blooming.\n\nThat was the first warning.\n\nThe second came when the station began to acquire extra edges. The lights were too sharp. The vending machine’s hum was too loud. Every sound seemed to have something thin and hard concealed inside it.\n\nTouma kept walking.\n\nHe was used to trouble. Trouble outside his head could usually be outrun. Trouble inside his skull came along regardless.\n\nAhead of him, near a service gate, the man in the gray coat had one hand wrapped around a boy’s wrist. His other hand was inside his coat.\n\nThe boy was a small-built teenager with a school bag hanging from one shoulder. The man was speaking to him quietly, with the patient efficiency of someone explaining a procedure that would go more smoothly if everyone cooperated.\n\nPeople passed them. Someone looked at the gate, then at a departure board. Someone else made a small adjustment to their route.\n\nThe boy wasn’t struggling.\n\nTouma might have kept going if he had been. Struggling would have made this an ordinary kind of trouble, with ordinary explanations. But the boy stood perfectly still, his face emptied by terror, as if even the possibility of resistance had been taken away.\n\nTouma knew that look.\n\nIt was not gallantry. It was recognition.\n\nHe was tired. He did not want to do this.\n\nThere were six steps between them.\n\nHe took them.\n\n“Hey.”\n\nThe man turned his head. His hand stayed inside his coat.\n\nAnd Touma caught the thought.\n\n*Keep moving. Keep the kid quiet. Finish the handoff.*\n\nNot words spoken aloud. Something closer and uglier: the intention beneath them, running smoothly toward its conclusion.\n\nTouma pressed against it.\n\nThe precision was the worst part. Not a blow, not a shove. A paperknife to the edge of thought.\n\nFor an instant, it felt as though he had pushed a pin through the inside of the world.\n\nThen he unthought it.\n\nThe man’s fingers opened.\n\nHe looked down at his empty hand with mild confusion, as if he had forgotten what he had meant to pick up. Beside him, the boy stumbled, his body discovering that the force holding it upright had disappeared. His school bag swung forward. For a moment he seemed to have a private appointment with gravity.\n\nTouma caught him by the shoulder.\n\nFor half a second, there was relief.\n\nThe wrist was free. The gate was still closed. Whatever had been about to happen had stopped.\n\nThen the second half arrived.\n\nSomething hiccupped in Touma’s memory.\n\nThere was no dramatic tearing, no great blank opening in his mind. Just a small interruption. A missed beat.\n\nHe looked at the boy.\n\nThe face was still there. So was the terror. Touma could see every detail perfectly.\n\nBut the familiarity was gone.\n\nHe reached inward for it and found nothing to reach toward.\n\nThat was the clean, quiet cruelty of it. He could remember recognizing the boy.\n\nHe could no longer remember why.",
+ "finish": "stop",
+ "outcome": "content",
+ "model_returned": "gpt-6-astra",
+ "codexUsage": {
+  "total": {
+   "totalTokens": 5279,
+   "inputTokens": 4603,
+   "cachedInputTokens": 0,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 676,
+   "reasoningOutputTokens": 53
+  },
+  "last": {
+   "totalTokens": 5279,
+   "inputTokens": 4603,
+   "cachedInputTokens": 0,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 676,
+   "reasoningOutputTokens": 53
+  },
+  "modelContextWindow": 258400
+ },
+ "timing": {
+  "turnStartSentAt": "2026-10-22T05:47:53.623Z",
+  "turnStartAcknowledgedAt": "2026-10-22T05:47:53.629Z",
+  "turnStartedNotificationAt": "2026-10-22T05:47:53.629Z",
+  "terminalNotificationAt": "2026-10-22T05:48:22.539Z"
+ },
+ "elapsed_s": 31.063,
+ "incomplete": false
+}

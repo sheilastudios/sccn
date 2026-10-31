@@ -1,0 +1,44 @@
+{
+ "request_id": "ch05_slice1_only-s1",
+ "case_id": "ch05_slice1_only",
+ "arm": "ch05_slice1_only",
+ "replicate": 1,
+ "model": "gpt-6-luna",
+ "effort": "medium",
+ "request_sha256": "762ca64e7a38ce60ecb6b86783aefae830367b5bd5cead1c51f6254ffd826845",
+ "source_sha256": [
+  "f493effecac3fe593a5a738cbb4416c3a8211d667d8f34415301e067adba5482"
+ ],
+ "started": "2026-10-22T05:46:39.932Z",
+ "content": "I woke to Mio standing in the corner.\n\nNot as a voice. Not as pressure. Not as private commentary.\n\nShe was just… there.\n\nFor a moment, I stared at her, my face going hot. The safehouse bedroom—the cheap rental carpet, the suspiciously beige ceiling, the broken lamp, the smell of dust, instant coffee, and cheap disinfectant—had become a room with a person in it. A person who shouldn’t have been there.\n\n“Stop staring,” she said.\n\n“I’m not.”\n\n“You are.”\n\nI tried blinking, just to see if the shell of her would vanish. It didn’t. The safe layer between the strange and the world was gone.\n\nI reached for the blanket. My hand went straight through her knee.\n\nMio flinched. “Warn me before you do that.”\n\n“I didn’t mean to.”\n\n“That’s what makes it worse.”\n\n“Can you feel anything?” I asked.\n\n“Physically or emotionally?”\n\nShe said it with the calm precision of someone who understood me too well.\n\n“That was always the case,” I muttered.\n\nThe procedure came back to me in pieces. The limiter was stable—for the moment. The projection wasn’t. And visible Mio seemed more alive than audible Mio ever had. Her shoulders tightened. She took a breath before answering. She had to decide where to put her hands.\n\nI could see her fear now.\n\nShe paced the narrow strip between the futon and the kitchenette counter. I kept glancing toward her. My body treated her like the center of the room, whether I wanted it to or not. Now she could watch me watching her. This was no longer just a tactical problem.\n\nThe door opened. Nico appeared in the doorway.\n\n“You’re both awake.”\n\n“You knew she could do that?” I asked.\n\n“No,” Nico said too quickly.\n\nHe looked rattled, trying too hard to seem calm. The visible-presence rule still applied—even with him standing there. Somehow, the first problem outside the closed system had found a way to talk back.\n\n“The limiter’s stable right now,” he said. “But the projection isn’t. This isn’t exactly a school presentation.”\n\n“So it’s a side effect,” I said. “Like her being this precise? Like a person?”\n\nMio moved to stand beside me, on the side where we’d continue existing.\n\n“Other systems might register her now,” Nico said. “Cameras. Biometrics. Active recognition filters. Maybe even people.”\n\n“Bad enough for you?” Mio asked.\n\nMy private embarrassment had just expanded into a problem the whole network might be able to see.",
+ "finish": "stop",
+ "outcome": "content",
+ "model_returned": "gpt-6-luna",
+ "codexUsage": {
+  "total": {
+   "totalTokens": 5887,
+   "inputTokens": 5354,
+   "cachedInputTokens": 0,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 533,
+   "reasoningOutputTokens": 0
+  },
+  "last": {
+   "totalTokens": 5887,
+   "inputTokens": 5354,
+   "cachedInputTokens": 0,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 533,
+   "reasoningOutputTokens": 0
+  },
+  "modelContextWindow": 258400
+ },
+ "timing": {
+  "turnStartSentAt": "2026-10-22T05:46:42.309Z",
+  "turnStartAcknowledgedAt": "2026-10-22T05:46:42.327Z",
+  "turnStartedNotificationAt": "2026-10-22T05:46:42.331Z",
+  "terminalNotificationAt": "2026-10-22T05:46:49.128Z"
+ },
+ "elapsed_s": 9.25,
+ "incomplete": false
+}

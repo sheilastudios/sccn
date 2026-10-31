@@ -1,0 +1,221 @@
+Translate this into standard English as best you can.
+
+packet_type: scene
+packet_id: unthink_ch05_slice2
+source:
+ work: unthink
+ chapter: 05_visible_problem
+ slice:
+  start: mio_looks_away_too_quickly
+  end: wall_answers_with_deeper_scrape
+
+render:
+ pov: touma_only
+ distance: tight_close_third
+ tense: past
+
+entities:
+ char.touma:
+  role: focal
+  baseline: embarrassed|protective|trying_to_offer_useful_humanness_without_overstepping
+ char.mio:
+  role: visible_presence_under_social_pressure
+  baseline: sarcastic|afraid_of_misclassification|trying_not_to_be_seen_as_mistake
+ char.nico:
+  role: procedural_buffer_then_absent_witness
+  baseline: uncomfortable|decent_enough_to_look_away|not built for this intimacy
+ char.support_tech:
+  role: accidental_public_witness
+  baseline: wrong_kind_of_miracle|gossip_vector|social_story_builder
+ char.system:
+  role: encroaching_classifier
+  baseline: not_just_surveillance_now|listening_spatial_presence
+
+setting:
+ place: safehouse_bedroom_and_hallway_edge
+ scene: cheap_safehouse|chair_by_desk|futon_edge|air_conditioner_quiet|doorway_exposure|wall_near_bedroom_door
+ social: privacy_failing_in_stages
+
+image:
+ chair_squeak_acceptance
+ room_not_rejecting_her
+ fear_looks_like_embarrassment_with_face
+ can_you_eat
+ wanted_to_take_her_hand
+ room_smaller_after_nico_leaves
+ trust_not_yet_belief
+ wrong_kind_of_miracle
+ that_was_public
+ not_seen_as_mistake
+ room_bearable_for_one_second
+ fingertip_dragging_other_side_of_wall
+ pressure_in_plaster
+ colder_limiter_pulse_as_warning
+ heard_and_leaning_closer
+
+withheld:
+ exact_social_cover_story: unresolved
+ what_the_system_is_becoming_here: unresolved
+ whether_wall_presence_is_detection_or_entity: unresolved
+
+state.room:
+ quiet_after_jokes: dangerous
+ privacy: fragile_then_broken_then_false
+
+state.mio:
+ fear: under_sarcasm
+ humiliation: active_after_public_witness
+ trust: not_yet_but_wants_to_believe_possible
+ identity_defiance: explicit
+
+state.touma:
+ protective_instinct: rising
+ usefulness_instinct: clumsy
+ boundary_respect: active
+ dread_of_public_story: high
+
+evt.seq:
+ mio_looks_away_too_quickly
+ > worry_about_people_classifying_her_not_seeing_her
+ > public_not_normal_exchange
+ > phrase_it_like_nervous_system_removal_exchange
+ > nico_leaves_because_uncomfortable
+ > room_becomes_smaller
+ > sit_down_offer
+ > haunted_projector_exchange
+ > mio_sits_on_chair
+ > chair_squeaks
+ > touma_relief_furniture_did_not_reject_her
+ > dont_make_that_face
+ > fear_under_jokes_identified
+ > can_you_eat_question
+ > body_shaped_unknowns_realization
+ > wanted_to_take_her_hand_but_stop
+ > she_notices_he_was_about_to_ask
+ > nico_exit_attempt_blocked_then_allowed
+ > i_was_going_to_ask_if_it_hurt
+ > room_does_weird_half_glitch_thing
+ > trying_too_hard_to_hold_shape_that_makes_sense
+ > finger_twitch_noticed
+ > ground_rules_begin
+ > no_surprise_touching
+ > tell_me_if_something_hurts
+ > i_dont_want_to_be_a_problem
+ > people_are_problems_humanly
+ > if_i_say_something_is_wrong_you_will_listen
+ > not_trust_yet_but_wants_to_believe
+ > support_tech_enters_wrong_kind_of_miracle
+ > who_is_that
+ > mio_perfectly_still
+ > touma_stands_too_fast
+ > not_your_business
+ > embarrassment_and_fear_arrive_together
+ > gossip_recognition_shift
+ > leave
+ > that_was_public_visible_humiliating
+ > dramatic_reveal_line
+ > too_many_eyes_too_late_for_rumor
+ > what_do_we_do_if_people_start_asking
+ > we_lie / disgust_affection
+ > if_i_am_going_to_be_seen_i_refuse_to_be_seen_as_a_mistake
+ > you_are_not_a_mistake
+ > dangerous_sincerity
+ > small_shaky_laugh
+ > room_bearable_for_one_second
+ > soft_scraping_outside_room
+ > not_footsteps_not_door
+ > fingertip_dragging_other_side_of_wall
+ > pressure_in_plaster
+ > limiter_pulse_warning
+ > dont_let_the_system_decide_what_i_am
+ > wall_answers_with_deeper_scrape
+
+causal:
+ people_classifying_her => social_visibility_fear_becomes_explicit
+ mio_sits_successfully => furniture_acceptance_relief
+ wanted_touch_but_stop => boundary_respect_visible
+ trust_question => partial_trust_opening
+ support_tech_enters => public_humiliation
+ public_humiliation => identity_refusal_statement
+ dangerous_sincerity_plus_shaky_laugh => room_briefly_bearable
+ system_warning_line => uncanny_wall_presence_hook
+
+hinges.furniture_acceptance:
+ chair_squeak_acceptance
+ furniture_not_rejecting_her_matters_disproportionately
+ mundane_world_making_space_for_her
+
+hinges.trust_offer:
+ if_i_say_something_is_wrong_you_will_listen
+ not_trust_yet_but_beginning_to_want_to_believe
+ yes_repeated_without_performing_comfort
+
+hinges.public_humiliation:
+ wrong_kind_of_miracle
+ that_was_public
+ gossip_recognition_shift
+ embarrassment_and_fear_arrive_together
+
+hinges.identity_refusal:
+ if_i_am_going_to_be_seen_i_refuse_to_be_seen_as_a_mistake
+ visible_not_equal_anomaly_or_symptom
+ personhood_defiance_under_social_pressure
+
+hinges.warmth_under_fear:
+ dangerous_sincerity
+ small_shaky_laugh
+ room_becomes_bearable_for_one_second
+ warmth_does_not_cancel_fear
+
+hinges.system_encroachment:
+ dont_let_the_system_decide_what_i_am
+ fingertip_dragging_other_side_of_wall
+ pressure_in_plaster
+ heard_and_leaning_closer
+ classification_pressure_becomes_spatial
+
+binding.exact:
+ evt.public_offer_listening:
+  actor: Touma
+  action: offers_to_listen_if_something_wrong
+  dialogue_owner: Touma
+  target: Mio
+  relational_weight: high
+  exact_binding_required: true
+ evt.partial_belief_response:
+  actor: Mio
+  action: partially_believes_offer
+  target: Touma
+  relational_weight: high
+  exact_binding_required: true
+ evt.identity_refusal_claim:
+  actor: Mio
+  action: refuses_seen_as_mistake
+  dialogue_owner: Mio
+  target: Touma|future_others
+  relational_weight: high
+  exact_binding_required: true
+ evt.not_a_mistake_reply:
+  actor: Touma
+  action: rejects_mistake_frame
+  dialogue_owner: Touma
+  target: Mio
+  relational_weight: high
+  exact_binding_required: true
+
+affect.arc:
+ social_visibility_fear
+ > furniture_relief
+ > body_unknowns
+ > fragile_trust_offer
+ > public_humiliation
+ > identity_defiance
+ > tiny_warmth
+ > uncanny_system_hook
+
+drift_block:
+ do_not_turn_identity_refusal_into_generic_self-esteem_line
+ do_not_flatten_public_humiliation_into_generic_discovery
+ do_not_make_the_laugh_cancel_the_fear
+ do_not_treat_the_wall_scrape_as_generic_horror_without classification_pressure
+ do_not_invert_who_offers_listening_or_who_claims_not_a_mistake

@@ -1,0 +1,44 @@
+{
+ "request_id": "ch05_slice1_only-s3",
+ "case_id": "ch05_slice1_only",
+ "arm": "ch05_slice1_only",
+ "replicate": 3,
+ "model": "gpt-6-luna",
+ "effort": "medium",
+ "request_sha256": "762ca64e7a38ce60ecb6b86783aefae830367b5bd5cead1c51f6254ffd826845",
+ "source_sha256": [
+  "f493effecac3fe593a5a738cbb4416c3a8211d667d8f34415301e067adba5482"
+ ],
+ "started": "2026-10-22T05:47:04.925Z",
+ "content": "I woke to Mio standing in the corner.\n\nNot as a voice. Not as a pressure at the edge of my thoughts, or some private comment I could pretend wasn’t there. She was just… there.\n\nI stared at her. My face went hot.\n\nThe safehouse bedroom had always been a place for private wrongness: cheap rental carpet, a suspiciously beige ceiling, a broken lamp. Dust, instant coffee, and cheap disinfectant. A room where strange things could happen as long as they stayed between us.\n\nThat arrangement was over.\n\nMio looked around as if the room might have hidden teeth. Then she noticed me staring.\n\n“Stop that.”\n\n“I’m trying to figure out if you’ll disappear if I blink.”\n\n“Try it.”\n\nI blinked. She stayed.\n\nI reached for the blanket, and my hand went straight through her knee.\n\nMio flinched. “Warn me before you do that.”\n\n“I didn’t mean to.”\n\n“That’s what makes it worse.”\n\nI pulled my hand back. “Can you feel anything?”\n\n“Physically or emotionally?”\n\n“Either.”\n\nShe looked at me like someone who understood me too well. “That was always the case.”\n\nI didn’t have an answer. The pieces of procedure I’d memorized started coming back to me, one at a time, and none of them made this feel less impossible.\n\nShe seemed more alive now than she had when she was only audible. I could see the tension in her shoulders, the breath she took before answering, the way she was trying to decide where to put her hands.\n\nAnd I could see her fear.\n\nMio paced the narrow strip of floor between the futon and the kitchenette counter. I kept glancing toward her. My body had already decided she was the center of the room.\n\nThen the door opened, and Nico stepped in.\n\n“You’re both awake.”\n\n“You knew she could do that?” I asked.\n\n“No,” he said too quickly. “I mean—no. Not like this.”\n\nThe visible-presence rule still applied. Nico had to stay within the doorway, where he could witness her. He looked rattled, trying too hard to seem calm, but he was already working through what this meant.\n\n“The limiter’s stable for the moment,” he said. “But the projection isn’t.”\n\n“Projection,” I repeated. “This isn’t a school presentation.”\n\n“I know. I’m saying the side effect might be more person-like than we expected.”\n\nMio stopped pacing. “I’ll stay where you two are continuing to exist.”\n\nThat sounded like her taking a side. Or choosing a place to stand while the rest of us figured out what she was.\n\nNico glanced toward the ceiling, then at the door. “There’s another problem. Other systems might be able to register her now.”\n\n“Like what?”\n\n“Cameras. Biometrics. Recognition filters. Maybe people, depending on what’s active.”\n\nThe room was still private, technically. But the world outside it had new ways to notice her.\n\nI looked at Mio. She was watching me now, and being watched by her had become a physical fact, not an idea I could push aside.\n\n“Bad enough for you?” she asked.",
+ "finish": "stop",
+ "outcome": "content",
+ "model_returned": "gpt-6-luna",
+ "codexUsage": {
+  "total": {
+   "totalTokens": 6023,
+   "inputTokens": 5354,
+   "cachedInputTokens": 0,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 669,
+   "reasoningOutputTokens": 12
+  },
+  "last": {
+   "totalTokens": 6023,
+   "inputTokens": 5354,
+   "cachedInputTokens": 0,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 669,
+   "reasoningOutputTokens": 12
+  },
+  "modelContextWindow": 258400
+ },
+ "timing": {
+  "turnStartSentAt": "2026-10-22T05:47:05.887Z",
+  "turnStartAcknowledgedAt": "2026-10-22T05:47:05.892Z",
+  "turnStartedNotificationAt": "2026-10-22T05:47:05.892Z",
+  "terminalNotificationAt": "2026-10-22T05:47:13.671Z"
+ },
+ "elapsed_s": 8.808,
+ "incomplete": false
+}

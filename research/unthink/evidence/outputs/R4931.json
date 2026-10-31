@@ -1,0 +1,44 @@
+{
+ "request_id": "ch05_slice2_only-s1",
+ "case_id": "ch05_slice2_only",
+ "arm": "ch05_slice2_only",
+ "replicate": 1,
+ "model": "gpt-6-luna",
+ "effort": "medium",
+ "request_sha256": "432c73b97930b1beeea2c1d7784f221778fa1d0d78c4e352727750a7b35fe2e2",
+ "source_sha256": [
+  "e478912d7cf97a5863dfafaedd35d8e4e47b9fb6fbcd0815ef231d5a907fb240"
+ ],
+ "started": "2026-10-22T05:46:42.929Z",
+ "content": "Mio looked away too quickly. Touma worried people would classify her without ever really seeing her.\n\nThe exchange had been anything but normal. He tried to put it in terms of removing something from her nervous system, but Nico looked uncomfortable. After a moment, he left.\n\nThe room seemed smaller without him.\n\n“Want to sit down?” Touma asked.\n\nMio glanced at the projector, still sitting there like something haunted. “Sure.”\n\nShe lowered herself onto the chair. It squeaked beneath her.\n\nTouma felt a rush of relief. The chair hadn’t rejected her. The room was making space for her, in its ordinary, thoughtless way.\n\n“Don’t make that face,” Mio said.\n\nHe hadn’t realized his fear was showing beneath his attempts at humor. “Can you eat anything?”\n\nThe question made him think of all the things he didn’t know about her body—what it needed, what it could tolerate. He wanted to take her hand. He stopped himself.\n\nMio noticed. “You were going to ask me something.”\n\nNico seemed to make an attempt to leave, then paused in the doorway. Touma let him go.\n\n“I was going to ask if it hurt,” Touma said.\n\nThe room seemed to glitch—not quite changing, but struggling to hold its shape. Mio’s finger twitched.\n\nThey began laying down ground rules. No touching her without warning. She should tell him if something hurt.\n\n“I don’t want to be a problem,” Mio said.\n\n“People are problems,” Touma replied. “In the human way.”\n\nShe looked at him. “If I say something’s wrong, you’ll listen?”\n\n“Yes,” he said. “I’ll listen.”\n\nShe didn’t trust him yet. But she seemed to want to believe she might.\n\nThen the support tech came in.\n\n“Who’s that?” Mio asked, going perfectly still.\n\nTouma stood too quickly. “That’s not your business.”\n\nEmbarrassment and fear hit Mio at once. The tech’s expression shifted as he recognized what he was seeing—the beginning of a story he could carry out of the room.\n\n“Leave,” Touma said.\n\nThe door closed behind him.\n\n“That was public,” Mio said. Her voice was tight. “That was humiliating.”\n\nThe revelation had already happened. There had been too many eyes; the rumor was already out of their hands.\n\n“What do we do if people start asking?” Touma said.\n\n“We lie,” Mio replied, with an expression that mixed disgust and something almost fond.\n\nThen she lifted her chin. “If I’m going to be seen, I refuse to be seen as a mistake.”\n\n“You’re not a mistake,” Touma said.\n\nThe sincerity of it felt dangerous. Mio gave a small, shaky laugh. For one second, the room seemed bearable.\n\nThen came a soft scrape from outside the bedroom. Not footsteps. Not the door.\n\nIt sounded like a fingertip dragging along the other side of the wall. The plaster seemed to press inward. A colder pulse from the limiter warned him.\n\n“Don’t let the system decide what I am,” Mio said.\n\nThe wall answered with a deeper scrape.",
+ "finish": "stop",
+ "outcome": "content",
+ "model_returned": "gpt-6-luna",
+ "codexUsage": {
+  "total": {
+   "totalTokens": 6478,
+   "inputTokens": 5833,
+   "cachedInputTokens": 3072,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 645,
+   "reasoningOutputTokens": 0
+  },
+  "last": {
+   "totalTokens": 6478,
+   "inputTokens": 5833,
+   "cachedInputTokens": 3072,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 645,
+   "reasoningOutputTokens": 0
+  },
+  "modelContextWindow": 258400
+ },
+ "timing": {
+  "turnStartSentAt": "2026-10-22T05:46:43.933Z",
+  "turnStartAcknowledgedAt": "2026-10-22T05:46:43.954Z",
+  "turnStartedNotificationAt": "2026-10-22T05:46:43.954Z",
+  "terminalNotificationAt": "2026-10-22T05:46:54.850Z"
+ },
+ "elapsed_s": 11.989,
+ "incomplete": false
+}

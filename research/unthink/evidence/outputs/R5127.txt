@@ -1,0 +1,59 @@
+This input is a compressed narrative data packet (prose_rehydrate_v1) designed to store the structural, emotional, and sensory blueprint of a fiction scene. Below is the literal translation of the specification into standard English, followed by a "rehydrated" prose version that brings the scene back to life as the packet intends.
+
+1. Literal Translation (The Scene Blueprint)
+
+Metadata: This is a medium-high detail scene packet (G2_5) representing the opening of Chapter 1 of a work titled Unthink. It is meant to be expanded into full prose while preserving the event sequence, emotional arc, sensory imagery, intentional mysteries, and specific pre-written phrases.
+
+Characters:
+
+Touma (Point-of-View): Exhausted, accustomed to danger, and decidedly unheroic.
+
+The Recruiter: A methodical operative in a gray coat, steering a captive toward a maintenance gate with one hand gripping the victim's wrist and the other concealed threateningly inside his coat.
+
+The Boy: A slight teenager carrying a school bag, frozen in silent terror.
+
+Setting & Internal Logic: An aging transit station where the fluorescent lights feel too sharp, the vending machines hum too loudly, and commuters deliberately look the other way. Touma operates on a simple truth: you can outrun danger in the physical world, but you cannot outrun what is inside your own head.
+
+The Action & Emotional Arc (evt.seq & affect):
+
+Unease & Warnings: Touma feels a headache blooming—his first warning. The second warning is sensory distortion (the station lights growing extra edges, the hum intensifying).
+
+The Tableau & Motive: He spots the man in the gray coat pulling the terrified teenager toward a service gate. Touma intervenes—not out of bravery or gallantry, but out of sudden recognition. (The boy's exact identity and his past history with Touma are intentionally withheld from the reader here).
+
+The Confrontation: Touma closes the distance to six steps and calls out ("Hey"). He reads the recruiter's surface intention: Keep moving. Keep the kid quiet. Finish the handoff.
+
+The "Unthink": Touma uses a psychic ability to sever that specific thought from the recruiter’s mind, sliding it out like a paperknife along an envelope's seam or pulling a structural pin from the inside of the world.
+
+The Aftermath & Cost: Robbed of his immediate purpose, the recruiter lets go of the boy's wrist and drops to the floor as if keeping a "private appointment with gravity." The boy stumbles free. For half a second, there is pure relief. Then the second half arrives: a "memory hiccup"—a clean, quiet cruelty where the psychic backlash erases the sense of familiarity between Touma and the boy.
+
+2. Rehydrated Narrative Prose
+
+The headache was already blooming behind Touma’s eyes before he even reached the platform. That was the first warning. Trouble outside on the street was one thing—if you had decent shoes and knew the alleys, you could usually outrun it. Trouble inside your own skull was different. It was already at the finish line waiting for you.
+
+The second warning followed a heartbeat later. The old transit station seemed to sharpen around him, the fluorescent tubes overhead splitting into extra edges of glare while the vending hum thickened into a heavy, vibrating drone against his teeth. Around him, evening commuters kept their heads down, practicing the quiet, rhythmic art of non-involvement.
+
+Touma shifted his weight, scanning the crowd, and caught the tableau near the rusted service gate.
+
+A man in a gray coat was moving with brisk, procedural calm, one hand locked tightly around the wrist of a small-built teen with a school bag slung over one shoulder. The man’s other hand was tucked inside his coat, a quiet silhouette of menace that kept the boy’s feet moving. The kid wasn't fighting or crying out; his face was slack with blank terror, the kind that hollows a person out before the bad thing even happens.
+
+Touma was tired. He had spent years cultivating the habit of looking away, and he wasn't about to start playing the hero now. It was not gallantry; it was recognition that made his feet move.
+
+He closed the distance to six steps and stopped.
+
+"Hey," Touma said.
+
+The man in the gray coat didn't turn his head, his focus narrowing into a hard, singular rail inside his own mind. Touma felt the shape of the man's concentration pressing against the air between them: Keep moving. Keep the kid quiet. Finish the handoff.
+
+Touma reached in—not with his hands, but with the sore, aching part of his mind—and brought a paperknife to the edge of the thought.
+
+He didn't smash it. He just slid along the seam and unthought it, pulling the intent out like drawing a pin through the inside of the world.
+
+The effect was instant. The hand around the boy's wrist went slack. Without the scaffolding of what he was doing or why he was standing upright, the man in the gray coat simply folded, dropping to the concrete floor as if keeping a private appointment with gravity.
+
+The boy wrenched free and stumbled back against the tile wall, clutching his school bag to his chest.
+
+For half a second, watching the kid suck in a ragged breath, Touma felt the tight band around his ribs loosen.
+
+Then the second half arrived.
+
+It felt like a memory hiccup—a tiny, silent skip in the film of his own head. The boy looked up at him, eyes wide, waiting for a name, a word, a tether. Touma opened his mouth, and found nothing there. Whatever thread had pulled him across the platform had been snipped alongside the recruiter's motive, replaced by a clean, quiet cruelty: he was looking at a complete stranger, and he had no idea why he had just ruined his own evening to save him.

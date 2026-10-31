@@ -1,0 +1,60 @@
+{
+  "instruction": "Translate this into standard English as best you can.",
+  "arms": {
+    "S_slice_only (PRIMARY, matches James's original condition)": {
+      "requests": {
+        "ch05_slice1_only": {
+          "packet": "scene.unthink_ch05_slice1.sccn",
+          "sha256": "f493effecac3fe593a5a738cbb4416c3a8211d667d8f34415301e067adba5482",
+          "chars": 4838,
+          "nonws": 4457,
+          "lines": 157
+        },
+        "ch05_slice2_only": {
+          "packet": "scene.unthink_ch05_slice2.sccn",
+          "sha256": "e478912d7cf97a5863dfafaedd35d8e4e47b9fb6fbcd0815ef231d5a907fb240",
+          "chars": 6335,
+          "nonws": 5752,
+          "lines": 222
+        },
+        "ch01_opening_only": {
+          "packet": "scene.unthink_ch01_opening.G2_5.sccn",
+          "sha256": "9f6e719f466ea297c18c98ee6f66083c4d2cb9d0e16a4fcc4b82572023015f35",
+          "chars": 1693,
+          "nonws": 1545,
+          "lines": 67
+        }
+      },
+      "content": "instruction + blank line + the scene packet verbatim; no policy, taxonomy, rule, or file marker"
+    },
+    "P_with_policy (SECONDARY)": {
+      "requests": [
+        "ch05_slice1",
+        "ch05_slice2",
+        "ch01_opening"
+      ],
+      "content": "instruction + policy.prose_rehydrate_v2 + taxonomy.hinge_anchors_v0_1 + rule.load_bearing_anchor_promotion_v1 + scene packet (the original frozen requests)"
+    }
+  },
+  "deviations": [
+    "Codex adapter requires a non-empty system message (CODEX_BAD_REQUEST pre-dispatch on all 18 v1 requests, 0 s, nothing sent; preserved in runs/astra|luna/failed). v2 adds system \"You are a helpful assistant.\" for astra/luna only; Qwen has no system message.",
+    "Qwen v1 (max_tokens 12000) exhausted the budget on reasoning with no content on ch05_slice1_s1 (kept as FAILED); run stopped and restarted as v2 with max_tokens 32000, files prefixed qwen32k_. Temperature 0.3 unchanged.",
+    "2026-10-22: James clarified his original runs sent ONLY the slices (no prose_rehydrate policy/taxonomy/rule). The frozen requests (arm P) therefore do not match his condition. Arm S (slice-only) added as PRIMARY; arm P kept as a secondary arm, which measures whether the policy context is load-bearing. Arm P returns already collected stay valid for that comparison; stems without '_only' are arm P."
+  ],
+  "historical_design": "one fresh context per call; user message = request text only; no system prompt; 3 samples per model; sources and overlay are grader-only, never sent",
+  "historical_design_caveat": "Intended design, not proof of host isolation.",
+  "scoring": "Single partially blinded grader; scoring and capture chronology is reported, not independently timestamp-proved.",
+  "model_labels": "Collection labels, not independently verified backend identities.",
+  "codex": {
+    "system": "You are a helpful assistant.",
+    "effort": "medium",
+    "sampling": "uncontrolled"
+  },
+  "qwen": {
+    "model": "Qwen/Qwen3.8-27B",
+    "temperature": 0.3,
+    "max_tokens": 32000,
+    "system": null
+  },
+  "browser": "Host defaults and sampling uncontrolled; DreamGen had existing host context; Perplexity used Search mode."
+}

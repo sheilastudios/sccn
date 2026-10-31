@@ -1,0 +1,44 @@
+{
+ "request_id": "ch05_slice2_only-s2",
+ "case_id": "ch05_slice2_only",
+ "arm": "ch05_slice2_only",
+ "replicate": 2,
+ "model": "gpt-6-luna",
+ "effort": "medium",
+ "request_sha256": "432c73b97930b1beeea2c1d7784f221778fa1d0d78c4e352727750a7b35fe2e2",
+ "source_sha256": [
+  "e478912d7cf97a5863dfafaedd35d8e4e47b9fb6fbcd0815ef231d5a907fb240"
+ ],
+ "started": "2026-10-22T05:46:55.244Z",
+ "content": "Mio looked away too quickly.\n\nTouma worried that people would classify her without ever really seeing her. What had happened between them wasn’t a normal exchange—not the kind you could explain without making it sound as if they were talking about removing someone’s nervous system.\n\nNico left because the intimacy made him uncomfortable. Once he was gone, the room seemed smaller.\n\nTouma offered her the chair. “You can sit, if you want.”\n\n“Sure. Let’s see whether the haunted projector has any other surprises for us.”\n\nMio sat. The chair squeaked beneath her.\n\nFor some reason, Touma felt relieved. The furniture hadn’t rejected her. The room was still making space for her, in its ordinary, stupid way.\n\n“Don’t make that face,” she said.\n\nHe hadn’t meant to. “What face?”\n\n“The one where you look like you’ve figured out I’m scared.”\n\nThe fear was there beneath the jokes. He didn’t know what to do with it, so he asked, “Can you eat?”\n\nMio stared at him. “That’s what you’re asking?”\n\n“I don’t know. Your body’s… different now. I don’t know what it needs.”\n\nHe wanted to take her hand. He stopped himself.\n\nShe noticed. “Were you about to ask me something?”\n\nNico tried to leave, but got caught up in the awkwardness of it. In the end, he managed to slip out.\n\n“I was going to ask if it hurt,” Touma said.\n\nThe room did something strange—a half-glitch, as if it were trying too hard to hold its shape.\n\nMio’s finger twitched. Touma noticed, and tried to give them both some ground rules.\n\n“No touching you without warning,” he said. “And tell me if something hurts.”\n\n“I don’t want to be a problem.”\n\n“People are problems,” he said. “In the normal, human way.”\n\nMio studied him. “If I say something’s wrong, you’ll listen?”\n\n“Yes.”\n\n“You’ll actually listen?”\n\n“Yes.”\n\nShe didn’t trust him yet. But she seemed to want to believe it might be possible.\n\nThe support tech walked in.\n\n“Who’s that?” Mio asked.\n\nShe went perfectly still. Touma stood up too fast.\n\n“Not your business,” he said.\n\nThe tech’s expression shifted. Recognition, then the beginnings of gossip. He left.\n\nMio’s embarrassment and fear arrived together.\n\n“That was public,” she said. “They saw me. They’re going to talk.”\n\nTouma had no answer for that. The reveal had already happened; there had been too many eyes, and the rumor was already too late to stop.\n\n“What do we do if people start asking?” she said.\n\n“We lie,” Touma said.\n\nMio made a face—disgusted, but almost fond. “Of course we do.”\n\nThen she lifted her chin. “If I’m going to be seen, I refuse to be seen as a mistake.”\n\n“You’re not a mistake,” Touma said.\n\nThe sincerity in his own voice startled him. It was dangerous to say something like that when he couldn’t promise what would happen next.\n\nMio gave a small, shaky laugh. For one second, the room felt bearable.\n\nThen came a soft scraping sound from outside the room. Not footsteps. Not the door.\n\nSomething dragged a fingertip along the other side of the wall.\n\nThe plaster pressed inward.\n\nA colder pulse from Touma’s limiter warned him.\n\n“Don’t let the system decide what I am,” Mio said.\n\nThe scrape came again, deeper this time.\n\nIt had heard her. And it was leaning closer.",
+ "finish": "stop",
+ "outcome": "content",
+ "model_returned": "gpt-6-luna",
+ "codexUsage": {
+  "total": {
+   "totalTokens": 6583,
+   "inputTokens": 5833,
+   "cachedInputTokens": 3072,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 750,
+   "reasoningOutputTokens": 0
+  },
+  "last": {
+   "totalTokens": 6583,
+   "inputTokens": 5833,
+   "cachedInputTokens": 3072,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 750,
+   "reasoningOutputTokens": 0
+  },
+  "modelContextWindow": 258400
+ },
+ "timing": {
+  "turnStartSentAt": "2026-10-22T05:46:56.271Z",
+  "turnStartAcknowledgedAt": "2026-10-22T05:46:56.290Z",
+  "turnStartedNotificationAt": "2026-10-22T05:46:56.290Z",
+  "terminalNotificationAt": "2026-10-22T05:47:04.476Z"
+ },
+ "elapsed_s": 9.282,
+ "incomplete": false
+}

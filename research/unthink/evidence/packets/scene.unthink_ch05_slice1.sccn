@@ -1,0 +1,154 @@
+packet_type: scene
+packet_id: unthink_ch05_slice1
+source:
+ work: unthink
+ chapter: 05_visible_problem
+ slice:
+  start: wake_to_visible_mio_in_safehouse
+  end: bad_enough_for_you
+
+render:
+ pov: touma_only
+ distance: tight_close_third
+ tense: past
+
+entities:
+ char.touma:
+  role: focal
+  baseline: embarrassed|hyperaware|trying_to_reclassify_private_weirdness_as livable
+ char.mio:
+  role: visible_manifest_presence
+  baseline: offended|watchful|afraid_but_composed|learning_room_rules_in_real_time
+ char.nico:
+  role: procedural_followup
+  baseline: trying_too_hard_to_be_calm|rattled|operationally_useful
+ char.clerk_absent_public_world:
+  role: implied_social_pressure_continuing_from_outside
+ char.systems:
+  role: nonhuman_observer_pressure
+  baseline: cameras|biometrics|recognition_filters
+
+setting:
+ place: safehouse_bedroom_and_doorway
+ scene: cheap_rental_carpet|suspicious_beige_ceiling|broken_lamp|dust_instant_coffee_cheap_disinfectant|narrow_floor_strip|kitchenette_counter
+ social: private_room_no_longer_private_because_visible_mio_changes_everything
+
+image:
+ clerical_error_large_enough_to_become_visible
+ safe_layer_between_strange_and_world_gone
+ hand_through_knee
+ thought_asking_room_for_permission_before_becoming_motion
+ bad_signal_and_unstable_passwords
+ body_treats_her_like_center_of_room
+ doorway_witness_range
+ cameras_biometrics_active_recognition_filters
+ rude_way_to_wake_up
+
+withheld:
+ exact_projection_limits: unresolved
+ how_long_visibility_state_lasts: unresolved
+ who_else_can_register_her: partial_only
+
+state.wakeup:
+ touma: shocked|staring|face_hot
+ mio: there_anyway|checking_room_for_hidden_teeth
+ normal_private_morning: unavailable
+
+state.embodiment:
+ mios_movement: slight_lag
+ visible_fear: readable
+ accidental_contact_risk: high
+ social_geometry: rewritten
+
+state.visibility:
+ witness_rule: still_active
+ other_system_detection: now_possible
+ embarrassment: operationalized
+
+evt.seq:
+ touma_wakes_to_mio_in_corner
+ > not_voice_not_pressure_not_private_commentary
+ > be_there_argument
+ > safehouse_room_redescribed_as_private_wrongness
+ > stop_staring_exchange
+ > trying_to_see_if_shell_vanishes_if_he_blinks
+ > visible_presence_means_safe_layer_gone
+ > blanket_reach_hand_through_knee
+ > warn_me_before_you_do_that
+ > i_didnt_mean_to / thats_what_makes_it_worse
+ > can_you_feel_anything broad_question
+ > physically_or_emotionally
+ > act_like_person_who_understands_me_too_well
+ > that_was_always_the_case
+ > procedure_memory_returns_in_pieces
+ > visible_mio_more_alive_than_audible_mio
+ > can_see_her_fear_now
+ > pacing_small_strip_between_futon_and_kitchenette
+ > body_keeps_treating_her_like_center_of_room
+ > door_opens_nico_enters
+ > youre_both_awake
+ > you_knew_she_could_do_that / no_too_fast
+ > first_problem_outside_closed_system_talks_back
+ > visible_rule_memory_nico_in_doorway
+ > limiter_stable_for_moment_projection_not_stable
+ > projection_not_school_presentation
+ > side_effect_like_person_precision_argument
+ > she_takes_side_where_we_continue_existing
+ > other_systems_may_register_her_now
+ > cameras_biometrics_active_recognition_filters_maybe_humans
+ > bad_enough_for_you
+
+causal:
+ waking_to_visible_mio => domestic_embodiment_shock
+ accidental_contact => boundary_shock|new_room_rules
+ visibility_plus_microbehavior => personness_no_longer_abstract
+ pacing_and_glancing => room_center_gravity
+ nico_in_doorway_visibility_rule => operational_procedure_enters_private_space
+ other_systems_register_her => problem_expands_from_room_to_networked_detection
+
+hinges.domestic_embodiment:
+ wake_to_mio_in_corner
+ safehouse_bedroom_now_contains_visible_impossible_presence
+ safe_layer_between_strange_and_world_gone
+
+hinges.accidental_contact:
+ blanket_reach_hand_through_knee
+ warn_me_before_you_do_that
+ i_didnt_mean_to
+ thats_what_makes_it_worse
+
+hinges.visible_personness:
+ more_alive_than_when_audible
+ shoulders_tighten
+ breath_before_answer
+ deciding_where_to_put_her_hands
+ can_see_her_fear_now
+
+hinges.room_center_gravity:
+ body_treats_her_like_center_of_room
+ keeps_glancing_toward_her
+ being_watched_by_her_now_physical
+ social_problem_not_tactical_one
+
+hinges.operational_visibility:
+ visible_rule_still_governs_doorway
+ systems_may_register_her_now
+ cameras_biometrics_recognition_filters
+ bad_enough_for_you
+ private_embarrassment_expands_into_system_risk
+
+affect.arc:
+ wake_shock
+ > embarrassed_adjustment
+ > boundary_jolt
+ > personness_realization
+ > room_reorientation
+ > procedural_followup
+ > operational_escalation
+
+drift_block:
+ do_not_flatten_visible_mio_into_generic_roommate
+ do_not_turn_accidental_contact_into_simple_slapstick
+ do_not_lose_the_private_to_systemic_escalation
+ do_not_make_nico_relaxed_or_unchanged_by_her_presence
+ do_not_end_on_generic_warning_instead_of_detection-pressure expansion

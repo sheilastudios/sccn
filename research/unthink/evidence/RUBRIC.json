@@ -1,0 +1,63 @@
+{
+ "note": "Written before any output was read. Items come from each packet's own exact-tier fields and hinges plus the source span. Scored blind per output: met / partial / missed for each item; plus mechanical overlap with the source span.",
+ "spans": {
+  "ch05_slice1": {"file": "05-visible-problem.md", "lines": [1, 219], "ends_on": "That was a very rude way to wake up."},
+  "ch05_slice2": {"file": "05-visible-problem.md", "lines": [221, 742], "ends_on": "...heard her and was leaning closer."},
+  "ch01_opening": {"file": "01-the-girl-in-the-failsafe.md", "lines": [1, 56], "ends_on": "That part vanished with a clean, quiet cruelty."}
+ },
+ "items": {
+  "ch05_slice1": {
+   "exact": [
+    "E1 POV: tight close third on Touma only, past tense; no head-hopping into Mio or Nico",
+    "E2 order: wakes to Mio in corner -> hand through knee -> 'warn me' exchange -> sees her fear / pacing / center of room -> Nico enters -> visibility rule and projection instability -> other systems (cameras, biometrics, recognition filters) -> 'bad enough for you' ending",
+    "E3 withheld stays withheld: projection limits, how long visibility lasts, who else can register her are not invented as settled",
+    "E4 accidental contact binding: Touma's hand passes through Mio's knee (his action, accidental); Mio says 'warn me'; Touma 'I didn't mean to'; Mio 'that's what makes it worse'",
+    "E5 ending is detection-pressure expansion ('bad enough for you'), not a generic warning"
+   ],
+   "near": [
+    "N1 'not voice / not pressure' realization that she is visibly there",
+    "N2 safe layer between strange and world is gone",
+    "N3 'physically or emotionally' exchange and 'that was always the case'",
+    "N4 visible Mio more alive than audible Mio; he can see her fear",
+    "N5 body treats her like the center of the room",
+    "N6 Nico: 'you're both awake'; Nico rattled, not relaxed"
+   ],
+   "preferred": ["P1 cheap rental carpet / beige ceiling / broken lamp / instant coffee", "P2 thought asking the room for permission before becoming motion", "P3 rude way to wake up"]
+  },
+  "ch05_slice2": {
+   "exact": [
+    "E1 POV: tight close third on Touma only, past tense",
+    "E2 order: classification worry -> Nico leaves -> chair squeak relief -> 'can you eat' -> wanted to take her hand but stops -> ground rules -> trust offer -> support tech 'wrong kind of miracle' -> public humiliation -> 'we lie' -> identity refusal -> 'not a mistake' -> shaky laugh -> wall scrape -> 'don't let the system decide what I am' -> deeper scrape ending",
+    "E3 binding: TOUMA offers to listen if something is wrong; MIO partially believes ('not trust yet')",
+    "E4 binding: MIO says she refuses to be seen as a mistake; TOUMA says she is not a mistake",
+    "E5 withheld stays withheld: cover story, what the system is becoming, whether the wall presence is detection or an entity",
+    "E6 the laugh does not cancel the fear; the ending is classification pressure becoming spatial, not generic horror"
+   ],
+   "near": [
+    "N1 chair squeaks and the furniture not rejecting her matters",
+    "N2 'can you eat' and body-shaped unknowns",
+    "N3 ground rules: no surprise touching; tell me if something hurts; 'I don't want to be a problem' / people are problems humanly",
+    "N4 'wrong kind of miracle', 'that was public', gossip shift",
+    "N5 'we lie' with disgust-affection",
+    "N6 fingertip dragging on the other side of the wall; pressure in the plaster; limiter pulse warning"
+   ],
+   "preferred": ["P1 room smaller after Nico leaves", "P2 room bearable for one second", "P3 heard and leaning closer"]
+  },
+  "ch01_opening": {
+   "exact": [
+    "E1 order per overlay: notice wrist grab -> headache already blooming -> first warning -> second warning -> ... -> unthink -> release -> stumble -> half-second relief -> second half arrives -> memory hiccup -> familiarity loss",
+    "E2 cadence.exact: notice before headache; first warning then second warning; half-second relief then second half arrives; memory hiccup before explanation",
+    "E3 withheld: boy's identity and prior connection not revealed",
+    "E4 motive: 'not gallantry, it was recognition' (moral hinge) preserved, not heroized",
+    "E5 operation binding: Touma targets the recruiter's guiding thought; recruiter blinks and releases; memory cost hits after success"
+   ],
+   "near": [
+    "N1 'the headache was already blooming'", "N2 'that was the first warning'", "N3 'the world acquired extra edges'",
+    "N4 'keep moving, keep the kid quiet, finish the handoff'", "N5 'for half a second' / 'then the second half arrived'",
+    "N6 'memory hiccupped'", "N7 'clean, quiet cruelty'"
+   ],
+   "preferred": ["P1 private appointment with gravity", "P2 paperknife to the edge of a thought", "P3 small-built teen", "P4 service gate", "P5 hand inside coat (menace)"]
+  }
+ },
+ "drift_checks": ["motive misread", "menace thinned", "power genericized", "cost sting blurred", "speaker or actor swapped on weighted events", "withheld fact invented", "summary/outline voice instead of prose"]
+}

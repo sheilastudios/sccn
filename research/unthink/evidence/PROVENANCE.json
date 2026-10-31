@@ -1,0 +1,194 @@
+{
+  "source_package": "sccn-crossfamily-replication-20261022",
+  "scope": "S arm only; private transfer directory is NOT publishable",
+  "original_file_pins": {
+    "MECH_SCORES.json": "3b2ed632ca653a46a7da4b92f760a0b06321a7e9f172f43fb6d2e5657e94f880",
+    "PRE_RUN.json": "b701c3a277c7b1d0679b85fad4e5955618d1da26433fd3b69754b6e31478727e",
+    "RESULTS.md": "2caa3afdb6b385cd9d5787f29fe97646a248b399d5b0887d645322bf2d2cd136",
+    "RUBRIC_AGGREGATE.json": "65e22fdf1129bd342353ecb7ee4fba13c69c0f151cfeb2438878bc04cf38c079",
+    "aggregate.py": "52ead5e909c94f0a32040e57b62b509926e3f56698e2379a93e0cd68bcd81cec",
+    "grader-only/01-the-girl-in-the-failsafe.md": "dc00948bef7830f5bbce1fab871fbb0eff8909f2fa2ee1dc79988e46d06a88be",
+    "grader-only/05-visible-problem.md": "8b2367b9ed604439125ac6fb418ede8e63b30b6c4f9465f4595a3dbb33c2d3cf",
+    "grader-only/MASK_KEY.json": "d5f332edc1a1ea4066c7898a9bfc47701a5b2edc62a604777ac351f738bec3c2",
+    "grader-only/RUBRIC.json": "0f1881fd45c80ee0cf17f1061255db5bbd17ced5a28af065042f69d7b702b76a",
+    "grader-only/RUBRIC_SCORES.jsonl": "d855d0943c9c10967356701e74d3136513ce621d83b0793141a9fed988d2b323",
+    "grader-only/overlay.unthink_ch01_opening_fidelity.sccn": "09e83a720105733a73fc5ddeb57eefa972d988a69949c7256ee409d86d36b758",
+    "prepared_codex_only.jsonl": "302f0a4110c33bf039c5a20848164ba43988dd14bab2cafe8a4b4b0ab6693be8",
+    "requests/ch01_opening_only.txt": "9f6e719f466ea297c18c98ee6f66083c4d2cb9d0e16a4fcc4b82572023015f35",
+    "requests/ch05_slice1_only.txt": "f493effecac3fe593a5a738cbb4416c3a8211d667d8f34415301e067adba5482",
+    "requests/ch05_slice2_only.txt": "e478912d7cf97a5863dfafaedd35d8e4e47b9fb6fbcd0815ef231d5a907fb240",
+    "returns/MODELS.txt": "d701a307291dd9f56f4747f31d6d582515858f391a69ccb235367dbff553a87b",
+    "returns/dreamgen_ch01_opening_only_s1.txt": "8a85a6c3a185ca7710d6ec3d60f9fab0c5f1b65aec802ad49ad0191b701f8629",
+    "returns/dreamgen_ch01_opening_only_s2.txt": "4944beb53863fd4c9750534b4ffd494653fa69901aa2662459bf79f584d2665a",
+    "returns/dreamgen_ch01_opening_only_s3.txt": "7b7ca5b39db398f510481e439e800a9694fbd95ff2828ac6dc1c7c8ec805b2e7",
+    "returns/dreamgen_ch05_slice1_only_s1.txt": "bb3617724e7da2b37422839db95c61c1faf38e483c08ad7007004fbc1b41c79a",
+    "returns/dreamgen_ch05_slice1_only_s2.txt": "39769242c8fbb2a4328d202621062ec255dd966e8e826ce1118d21efc4031daf",
+    "returns/dreamgen_ch05_slice1_only_s3.txt": "e88edfbd5598ec659155ccfca02ebd61deaa7a9790be168db36c66789cde9437",
+    "returns/dreamgen_ch05_slice2_only_s1.txt": "b7e954e9ea20bc35e52bb0ee1f4ea2913f25d6aefae6f01e86edb8184306af4e",
+    "returns/dreamgen_ch05_slice2_only_s2.txt": "39206ca5679b2caa55a6246b7adebb4b67384c3082e54c30c86263fd093bdba8",
+    "returns/dreamgen_ch05_slice2_only_s3.txt": "89d80b284ab21031fca39287664af317b4c5f191f1342c5bc7dc0443d585a55a",
+    "returns/gemini_ch01_opening_only_s1.txt": "a460c04205a96fa702a88014a7b09bdd5926139d3407a1ec0f90c8a98590b632",
+    "returns/gemini_ch01_opening_only_s2.txt": "bbe7647d553b6ae565e126957ac4a5dbad1daed995ae2c7d7ded7033c95eb14f",
+    "returns/gemini_ch01_opening_only_s3.txt": "5f1ddca357812ae78c4e99887895467f1f8a3cc9a609aa2d0fedd86aaad9cf7c",
+    "returns/gemini_ch05_slice1_only_s1.txt": "2f47770e31396cc026728254c79adc145887f267ac75d90ebfbc48a2423db3a0",
+    "returns/gemini_ch05_slice1_only_s2.txt": "cca78f1a99d5a8dff91e6fec40121b30a1e0b6c2eaeccef63c772bf40bf7be6a",
+    "returns/gemini_ch05_slice1_only_s3.txt": "00b50ce0075335b07434cc4f81ed37b3bb9a77879c5c76ec7273e9c4ed51aea3",
+    "returns/gemini_ch05_slice2_only_s1.txt": "dd929c898fea1094bedb447082c2def4eca4a92219fbce9f14cefb60bcee743d",
+    "returns/gemini_ch05_slice2_only_s2.txt": "2c300a6bcce4c9b53170e537c115a13eef41c5e5040aa01f279bd7060857e10e",
+    "returns/gemini_ch05_slice2_only_s3.txt": "4568a251f5ff9ffeb0a96a47e0ccfa4f4db09f24604651644ca7b4b89de9f182",
+    "returns/grok_ch01_opening_only_s1.txt": "4e6b50939ca03e451b7a2e3f892aa8aca74bce8ccd07d78ff86dc64434107317",
+    "returns/grok_ch01_opening_only_s2.txt": "90d8ad205ccbd69bf6685a3f6dc8495f5e3a789ee8581a281431d940e5875014",
+    "returns/grok_ch01_opening_only_s3.txt": "6c8cb9cf826bbec718a5d803d46bac260dbd5e237d451165f02bd3d09b708a99",
+    "returns/grok_ch05_slice1_only_s1.txt": "4d538a01df3bfbc48607a8ba7a4bf3847fc313d2fd295785a9f9f50ea2a60704",
+    "returns/grok_ch05_slice1_only_s2.txt": "b1b57e6f0c9642acbfc0268576cdbc128d42ac6f4f1dadee9417434a0d905a7b",
+    "returns/grok_ch05_slice1_only_s3.txt": "a30724919a8c86ae8242cb3894b9201a3471d471b114af6842674be6304e4f81",
+    "returns/grok_ch05_slice2_only_s1.txt": "62d98025422bb6bff3e4a42a4456727515633ca94e3d7fe0ac3b7d5e1f4836b4",
+    "returns/grok_ch05_slice2_only_s2.txt": "33ef6e7008819ddba1219da3e57f401505eb6138811576909203cf2f1e16108e",
+    "returns/grok_ch05_slice2_only_s3.txt": "e0da95fa4d7cb8d2fffe318071296f26d1c267bf82251cbfd97a56618640f046",
+    "returns/perplexity_ch01_opening_only_s1.txt": "06bb9ccf61772554cca97abc14794ae6c2321ae955c419181bde21983449400b",
+    "returns/perplexity_ch01_opening_only_s2.txt": "6cee85448bd4a1ace51ea67c1a15732a58873d47d644e15afa56b46d70789844",
+    "returns/perplexity_ch01_opening_only_s3.txt": "1ee6cc6bf066bc9c2ad0acecbe013ad0d578663333c64f8c91cb8df5ec4a3885",
+    "returns/perplexity_ch05_slice1_only_s1.txt": "a593b70b0046a95539b95aa8334f7801c70e77097ea5db3359bc60a6657269ae",
+    "returns/perplexity_ch05_slice1_only_s2.txt": "ccdfecd13b33116f89959c2f29ae62523b1c8c7c3ea7e1614cfd512b8e098e57",
+    "returns/perplexity_ch05_slice1_only_s3.txt": "2168a03d91ad868f8fcc64c695b5056aba23acf628aa4ae594cf116c6d678c2e",
+    "returns/perplexity_ch05_slice2_only_s1.txt": "da97a3eaf68a08161cbe9c85847a9038ed692ca279f32ca0217611ba628af195",
+    "returns/perplexity_ch05_slice2_only_s2.txt": "c7b79ee2698cd3c7e6ef056e795d4f60f86d60aa5dbd1ca97cc548503d228718",
+    "returns/perplexity_ch05_slice2_only_s3.txt": "28faf82339f69f6744f93750c1af02470156b8a3a52156f175ec2cf9d6eb374a",
+    "returns/qwen32k_ch01_opening_only_s1.txt": "435fa0099bae58d4c9d3197aeed1395f639e84a29d208bbf2fb979fb227f333e",
+    "returns/qwen32k_ch01_opening_only_s2.txt": "9b7bf9ffff6269c5a20d12a8ee0c9eebd55dbd9ddd02206d0dc95ec22b58227f",
+    "returns/qwen32k_ch01_opening_only_s3.txt": "d7e55e086d0ef7f3dacec87deb2d20b23776253c2e49ab24a9341895ebf59f94",
+    "returns/qwen32k_ch05_slice1_only_s1.txt": "05dfebbac1b0e1e3e3dc78fa38b04d46438161cabe207ab4283536b01c0711fc",
+    "returns/qwen32k_ch05_slice1_only_s2.txt": "3fbbf824cc04f9fcfd4dcc48c3121e7302416425f4237c5bb05431f12d59aaa9",
+    "returns/qwen32k_ch05_slice1_only_s3.txt": "878e29d5647f8a255121dfe31c05fd4df69ba6b421b19f6b7d2d107b81a8b8bf",
+    "returns/qwen32k_ch05_slice2_only_s1.txt": "31d9c93f646ccf8ce0dc4b48459774ab2ef96ac843685bd9cc91ce5eb17cd2dc",
+    "returns/qwen32k_ch05_slice2_only_s2.txt": "367493eeeee63ead0c258ca75d0dad2a725f1810bbcc20f5f86b64fa67cd99d2",
+    "returns/qwen32k_ch05_slice2_only_s3.txt": "4d5dcbb89544109715e76cf02f2014db2dd5646fcbdc8724af1200496fba7e17",
+    "run_qwen.py": "e3698ac2179d24d0bc0088adbe0d9878cd2ee6b0b1e94427f729a280d3375165",
+    "runs/astra-only/outputs/ch01_opening_only-s1.json": "4928afc4b652a8ffbb9d15ebcdb3fd9f181528619d8d92e61a3cdffbb031c37e",
+    "runs/astra-only/outputs/ch01_opening_only-s2.json": "c7f2b494f31a796ff4efbb27cb6a7e107e46548ccf3f60f821c8fcaa70fb83d1",
+    "runs/astra-only/outputs/ch01_opening_only-s3.json": "87a2c00be42fb6500310b3bd0edecf16761ee3ac5c237c276ca10b4f25577a57",
+    "runs/astra-only/outputs/ch05_slice1_only-s1.json": "43f9945ad49b453e852ef8acf374fa3af98291c1ccd5f4ece48e2a250eb17197",
+    "runs/astra-only/outputs/ch05_slice1_only-s2.json": "1aecc4ad7175c8dc2fcf046552d5ac36c58f2622815f5e27eab5e31eac436049",
+    "runs/astra-only/outputs/ch05_slice1_only-s3.json": "93f511f4a8d97cbe6291135d5b59c1741240b1f5828c56b997d2dfc7379f824c",
+    "runs/astra-only/outputs/ch05_slice2_only-s1.json": "d01913881762843bfee7e25a4df8f5622c134d2d35fd31bf02215e917a91bac7",
+    "runs/astra-only/outputs/ch05_slice2_only-s2.json": "d32494f8d865c88de4d0747e31f4c0e4325cdb38ae4ccd632afbc05fc20a9f11",
+    "runs/astra-only/outputs/ch05_slice2_only-s3.json": "d8bbab4f3efc896a5d08a79af33ff516258d2875125b829c8a6262a7e258107c",
+    "runs/luna-only/outputs/ch01_opening_only-s1.json": "2fc30a01fcca374400ae72125ce5cf5caa11af216d98955d1e567df5480ae596",
+    "runs/luna-only/outputs/ch01_opening_only-s2.json": "2ae9447cf6666f0f7f61479e8391454b6b40fe932c05ab28fccd6d084121cb03",
+    "runs/luna-only/outputs/ch01_opening_only-s3.json": "c0e21f014fcd96f59341fcf6f29f1465c98c65097e1054592e1589a7f7cba7f4",
+    "runs/luna-only/outputs/ch05_slice1_only-s1.json": "49215e5b437c2a821aaf8637cebe4a4d5cea06435490683d5711b8cebf055de1",
+    "runs/luna-only/outputs/ch05_slice1_only-s2.json": "b0be847c8fc6834eaa1bb527046dc6214e4b2111c5d810b43500fa207a26d23a",
+    "runs/luna-only/outputs/ch05_slice1_only-s3.json": "e557b8d311bebf175b11e188af5952a703b7d4b7e24a14b193c26527a4b462bb",
+    "runs/luna-only/outputs/ch05_slice2_only-s1.json": "6e8229cd80c8779d523f124f2bb219f4ad068ddebee9538f2906bf30b5dca009",
+    "runs/luna-only/outputs/ch05_slice2_only-s2.json": "a49511cc103b25a3339a8bc55f4a741bbde64fbf7880f46382d75f29ffcc76f4",
+    "runs/luna-only/outputs/ch05_slice2_only-s3.json": "fdf216d05d782780f1080145123f302cc23f53d21a56dc4b48bdf18889f29464",
+    "sccn/02-thought-crime-romantic-timing.md": "cfe530a326941b93a37f3bd779cef3433e2866d4fde6236619ec5db4b971bc37",
+    "sccn/03-union-says-do-not-touch-that.md": "e7e52a643d1b85d7b6c382f32da8ef327c45d43448b60ec1690c7bbb84b0c6b5",
+    "sccn/04-removal-attempt-worst-outcome.md": "64ed500d1f9700fe47da8d47b8776ad7c34e8179310c1e59fd39ea9694496829",
+    "sccn/scene.unthink_ch01_opening.G2_5.sccn": "f44a9e2df2bd7bdd3a031224f64682e0c62c49355f284f7807ed288add2e82d3",
+    "sccn/scene.unthink_ch05_slice1.sccn": "146e3c6b2d333a2ecb6174b57df77d866f861b22f41a175ed93e1d8c69a3d9f8",
+    "sccn/scene.unthink_ch05_slice2.sccn": "f45ac9bcf91412050507e49f9f8355087b0d8fc5966e907cab4d7f37faced066",
+    "score_mech.py": "e031458a028e8f06720672a29f4141c7065fbcb106c71643804e974da5eb01a9",
+    "returns/qwen32k_ch01_opening_only_s1.meta.json": "2c3368bf1a7721869448710a315af9a93ef6b6be38e53d348f62dbd893f9464e",
+    "returns/qwen32k_ch01_opening_only_s2.meta.json": "22b833ab56df3d67b6e6079bffc2eaafb187f26193677fc2343824133aa42e1d",
+    "returns/qwen32k_ch01_opening_only_s3.meta.json": "67f78a96dc68a062d900394416f9b1bed5f66553bc13ec2829e34521d88153c7",
+    "returns/qwen32k_ch05_slice1_only_s1.meta.json": "128d1742dffbb78057106329468500ed25a3586012554b238261a6a3214e503a",
+    "returns/qwen32k_ch05_slice1_only_s2.meta.json": "19b1979a4535f5b932dfb3f3ecc4abc19959b15c214560badfb12f75147bb534",
+    "returns/qwen32k_ch05_slice1_only_s3.meta.json": "87d70b15e08b6401fc7998a58d14d72f3855ac119b24d023a40ca9a66726520a",
+    "returns/qwen32k_ch05_slice2_only_s1.meta.json": "956db25984bcb25aa8c12e3f04256e0f097d4c75bdf9bcbf822e3b395e5d2c06",
+    "returns/qwen32k_ch05_slice2_only_s2.meta.json": "258926c4e27e2f8711e0ea5cb3fd55bb1ef06009434d3801d1a07b5bee78927e",
+    "returns/qwen32k_ch05_slice2_only_s3.meta.json": "a515c516ab7944e87420d082b9b32fab25b3c07367da26fdddaeeb9ccec9e186"
+  },
+  "source_spans": {
+    "ch05_slice1": {
+      "source_file": "05-visible-problem.md",
+      "source_sha256": "8b2367b9ed604439125ac6fb418ede8e63b30b6c4f9465f4595a3dbb33c2d3cf",
+      "source_lines_inclusive": [
+        1,
+        219
+      ],
+      "excerpt_sha256": "a1182a2fff1d755efa235ee85aed814c58ba2f2d60526f72550889085f6888e6",
+      "extraction": "unchanged original byte lines"
+    },
+    "ch05_slice2": {
+      "source_file": "05-visible-problem.md",
+      "source_sha256": "8b2367b9ed604439125ac6fb418ede8e63b30b6c4f9465f4595a3dbb33c2d3cf",
+      "source_lines_inclusive": [
+        221,
+        742
+      ],
+      "excerpt_sha256": "d4dd070679839775578f0d00fc2319a48a3e415a347e4c6f0c292072bd42d8cd",
+      "extraction": "unchanged original byte lines"
+    },
+    "ch01_opening": {
+      "source_file": "01-the-girl-in-the-failsafe.md",
+      "source_sha256": "dc00948bef7830f5bbce1fab871fbb0eff8909f2fa2ee1dc79988e46d06a88be",
+      "source_lines_inclusive": [
+        1,
+        56
+      ],
+      "excerpt_sha256": "f797f6e1d8520dc846f57b9a88687ea9f3c79085efaef09d3f766b82289ef25d",
+      "extraction": "unchanged original byte lines"
+    }
+  },
+  "packets": {
+    "ch05_slice1": {
+      "packet": "scene.unthink_ch05_slice1.sccn",
+      "packet_sha256": "146e3c6b2d333a2ecb6174b57df77d866f861b22f41a175ed93e1d8c69a3d9f8",
+      "request_sha256": "f493effecac3fe593a5a738cbb4416c3a8211d667d8f34415301e067adba5482"
+    },
+    "ch05_slice2": {
+      "packet": "scene.unthink_ch05_slice2.sccn",
+      "packet_sha256": "f45ac9bcf91412050507e49f9f8355087b0d8fc5966e907cab4d7f37faced066",
+      "request_sha256": "e478912d7cf97a5863dfafaedd35d8e4e47b9fb6fbcd0815ef231d5a907fb240"
+    },
+    "ch01_opening": {
+      "packet": "scene.unthink_ch01_opening.G2_5.sccn",
+      "packet_sha256": "f44a9e2df2bd7bdd3a031224f64682e0c62c49355f284f7807ed288add2e82d3",
+      "request_sha256": "9f6e719f466ea297c18c98ee6f66083c4d2cb9d0e16a4fcc4b82572023015f35"
+    }
+  },
+  "redactions": [
+    {
+      "id": "R2878",
+      "artifact": "score drift text",
+      "original_row_sha256": "2703b563f2eb17d7c9eb53849cf8acfe004495f6e10961e839b42c2add6fd2da",
+      "retained": "mode and every numeric score"
+    },
+    {
+      "id": "R1491",
+      "artifact": "score drift text",
+      "original_row_sha256": "74d7a64776554064a03bcff6b3a1ca2aae48146eddb79f4bdbb8dfe20074f8eb",
+      "retained": "mode and every numeric score"
+    },
+    {
+      "id": "R2878",
+      "artifact": "output",
+      "original_file_sha256": "e88edfbd5598ec659155ccfca02ebd61deaa7a9790be168db36c66789cde9437",
+      "omitted_bytes": 4475,
+      "reason": "unrelated private host narrative",
+      "retained": "identity, off-task mode, scores, denominator"
+    },
+    {
+      "id": "R1491",
+      "artifact": "output first line",
+      "original_file_sha256": "89d80b284ab21031fca39287664af317b4c5f191f1342c5bc7dc0443d585a55a",
+      "original_line_sha256": "4120431be992f1d4e1989f0f7c1f175a78228dedfb38f165b3b58e62f23aa99f",
+      "byte_range": [
+        0,
+        42
+      ],
+      "retained_suffix_sha256": "5a6a9819e092ec30fa130c0e5b011e30aec1c099b2dc9d028fce1cb12e184eca",
+      "reason": "unrelated private host title"
+    }
+  ],
+  "derived_files": [
+    "SCORES-S.jsonl: S rows only, two drift comments redacted",
+    "IDENTITIES-S.json: selected original mappings plus content and publication hashes",
+    "MECHANICAL-S.json, AGGREGATE-S.json: S-only selection from saved results",
+    "METHOD.json: selected historical configuration, deviations and qualifications",
+    "BROWSER-CAPTURE-LOG-S.txt: S lines only; private host title replaced",
+    "verify.py: publication-only arithmetic and hash verifier, not a generation or grading agent",
+    "GRADER-ONLY-OVERLAY.sccn and qwen-metadata/* are unchanged original evidence copies."
+  ]
+}

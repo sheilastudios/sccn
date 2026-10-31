@@ -1,0 +1,44 @@
+{
+ "request_id": "ch01_opening_only-s1",
+ "case_id": "ch01_opening_only",
+ "arm": "ch01_opening_only",
+ "replicate": 1,
+ "model": "gpt-6-luna",
+ "effort": "medium",
+ "request_sha256": "922dc56dc49f3a56452bb2708b76a8267913005c7c9bb894ff5f945c784b7bca",
+ "source_sha256": [
+  "9f6e719f466ea297c18c98ee6f66083c4d2cb9d0e16a4fcc4b82572023015f35"
+ ],
+ "started": "2026-10-22T05:46:49.186Z",
+ "content": "The old transit station was too bright and too loud. The lights cut sharp edges into everything; the vending machines hummed. Around Touma, strangers kept their eyes to themselves.\n\nHe knew how to deal with trouble out in the world. You could outrun that. Trouble inside your own skull was different.\n\nHis headache was already blooming.\n\nThat was the first warning.\n\nThe second came a moment later, precise as a paperknife drawn along the edge of a thought. Touma moved.\n\nA man in a gray coat had a small, slight teenager by the wrist. The boy wore a schoolbag. The man’s other hand was inside his coat. They were near a service gate, caught in a tableau so ordinary that no one else seemed to notice.\n\nThe boy’s face held blank terror.\n\nFor half a second, Touma couldn’t place what he was seeing. Then the second half arrived: recognition. Not gallantry. Recognition.\n\nHe took six steps.\n\n“Hey.”\n\nKeep moving. Keep the kid quiet. Finish the handoff.\n\nThe thought was there, clear and private—like an appointment with gravity. Then Touma unthought it.\n\nHe let go. Stumbled.\n\nRelief came, for half a second.\n\nThen the second half arrived.\n\nA hiccup in his memory. A clean, quiet cruelty: the boy was familiar, and then he wasn’t. The connection was gone, though Touma could feel its absence.",
+ "finish": "stop",
+ "outcome": "content",
+ "model_returned": "gpt-6-luna",
+ "codexUsage": {
+  "total": {
+   "totalTokens": 4898,
+   "inputTokens": 4603,
+   "cachedInputTokens": 0,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 295,
+   "reasoningOutputTokens": 0
+  },
+  "last": {
+   "totalTokens": 4898,
+   "inputTokens": 4603,
+   "cachedInputTokens": 0,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 295,
+   "reasoningOutputTokens": 0
+  },
+  "modelContextWindow": 258400
+ },
+ "timing": {
+  "turnStartSentAt": "2026-10-22T05:46:50.203Z",
+  "turnStartAcknowledgedAt": "2026-10-22T05:46:50.222Z",
+  "turnStartedNotificationAt": "2026-10-22T05:46:50.222Z",
+  "terminalNotificationAt": "2026-10-22T05:46:55.179Z"
+ },
+ "elapsed_s": 6.054,
+ "incomplete": false
+}

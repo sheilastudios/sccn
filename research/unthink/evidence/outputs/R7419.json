@@ -1,0 +1,44 @@
+{
+ "request_id": "ch05_slice2_only-s3",
+ "case_id": "ch05_slice2_only",
+ "arm": "ch05_slice2_only",
+ "replicate": 3,
+ "model": "gpt-6-luna",
+ "effort": "medium",
+ "request_sha256": "432c73b97930b1beeea2c1d7784f221778fa1d0d78c4e352727750a7b35fe2e2",
+ "source_sha256": [
+  "e478912d7cf97a5863dfafaedd35d8e4e47b9fb6fbcd0815ef231d5a907fb240"
+ ],
+ "started": "2026-10-22T05:47:10.346Z",
+ "content": "Mio looked away too quickly.\n\nTouma worried that people would classify her instead of seeing her. Their exchange wasn’t normal—not the kind of conversation people had in public. He tried to frame it as a nervous-system-removal exchange, but Nico left because the intimacy made him uncomfortable.\n\nThe room felt smaller once he was gone.\n\n“Do you want to sit down?” Touma asked.\n\nMio glanced at the projector, as if it were haunted. Then she lowered herself onto the chair. It squeaked.\n\nRelief loosened something in Touma. The room hadn’t rejected her. Even the furniture was making space for her.\n\n“Don’t make that face,” Mio said.\n\nHe realized she’d seen the worry beneath his awkward attempt at humor. Fear, dressed up as sarcasm.\n\n“Can you eat?” he asked.\n\nThe question made him think of all the things about her body he didn’t understand. He wanted to take her hand, but stopped himself. She noticed he’d almost asked.\n\nNico tried to leave, hesitated at the doorway, then finally went.\n\n“I was going to ask if it hurt,” Touma said.\n\nThe room did something strange—a brief, uneven glitch, as though it were trying too hard to hold a shape that made sense. Mio’s finger twitched.\n\n“We should probably establish some ground rules,” Touma said. “No surprise touching. And tell me if something hurts.”\n\n“I don’t want to be a problem.”\n\n“People are problems. That’s just being human.” He paused. “If I say something’s wrong, you’ll listen to me, right?”\n\nMio didn’t trust him yet. But she wanted to believe she might.\n\n“Yes,” she said. Then, more quietly: “I think so.”\n\nThe support tech appeared in the doorway, carrying the wrong kind of miracle.\n\n“Who’s that?” he asked.\n\nMio went perfectly still. Touma stood too fast.\n\n“Not your business,” he said.\n\nEmbarrassment and fear arrived together on Mio’s face. The support tech’s expression shifted; Touma could almost see him turning what he’d witnessed into a story.\n\n“Leave,” Touma said.\n\nAfter the door shut, Mio let out a breath.\n\n“That was public,” she said. “Everyone saw.”\n\nThe reveal had already happened. There had been too many eyes, and it was too late to stop the rumor.\n\n“What do we do if people start asking?” Touma said.\n\n“We lie,” Mio said, sounding disgusted—and, somehow, fond.\n\nThen her voice sharpened. “If I’m going to be seen, I refuse to be seen as a mistake.”\n\n“You’re not a mistake.”\n\nThe sincerity of it was dangerous. Mio gave a small, shaky laugh. For one second, the room became bearable. The fear didn’t go away.\n\nA soft scrape came from outside the room. Not footsteps. Not the door.\n\nTouma heard it again: a fingertip dragging along the other side of the wall. The plaster seemed to press inward. A colder pulse from his limiter warned him.\n\n“Don’t let the system decide what I am,” Mio said.\n\nThe wall answered with a deeper scrape.",
+ "finish": "stop",
+ "outcome": "content",
+ "model_returned": "gpt-6-luna",
+ "codexUsage": {
+  "total": {
+   "totalTokens": 6487,
+   "inputTokens": 5833,
+   "cachedInputTokens": 3072,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 654,
+   "reasoningOutputTokens": 0
+  },
+  "last": {
+   "totalTokens": 6487,
+   "inputTokens": 5833,
+   "cachedInputTokens": 3072,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 654,
+   "reasoningOutputTokens": 0
+  },
+  "modelContextWindow": 258400
+ },
+ "timing": {
+  "turnStartSentAt": "2026-10-22T05:47:11.331Z",
+  "turnStartAcknowledgedAt": "2026-10-22T05:47:11.358Z",
+  "turnStartedNotificationAt": "2026-10-22T05:47:11.359Z",
+  "terminalNotificationAt": "2026-10-22T05:47:22.272Z"
+ },
+ "elapsed_s": 11.966,
+ "incomplete": false
+}

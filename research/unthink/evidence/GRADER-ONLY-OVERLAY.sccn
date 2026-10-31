@@ -1,0 +1,44 @@
+packet_type: fidelity_overlay
+packet_id: unthink_ch01_opening_fidelity
+applies_to: unthink_ch01_opening
+
+cadence.exact:
+ notice_before_headache
+ first_warning_then_second_warning
+ half_second_relief_then_second_half_arrives
+ memory_hiccup_before_explanation
+
+phrase.near:
+ the_headache_was_already_blooming
+ that_was_the_first_warning
+ the_world_acquired_extra_edges
+ practiced_concentration_of_people_who_wanted_trouble_to_choose_someone_else
+ it_was_not_gallantry_it_was_recognition
+ keep_moving_keep_the_kid_quiet_finish_the_handoff
+ for_half_a_second
+ then_the_second_half_arrived
+ memory_hiccupped
+ clean_quiet_cruelty
+
+phrase.preferred:
+ interrupted_a_private_appointment_with_gravity_itself
+ paperknife_to_edge_of_thought
+ small_built_teen
+ service_gate
+
+para.beats:
+ p1: notice_wrist_grab|headache_already_blooming|first_warning
+ p2: second_warning|extra_edges|social_evasion
+ p3: trouble_outside_vs_trouble_inside_skull
+ p4: swear_and_move|recruiter_tableau
+ p5: small_built_teen|school_bag|blank_terror|recognition_not_gallantry
+ p6: six_steps|hey|recruiter_annoyed
+ p7: not_whole_mind|single_guiding_thought|finish_handoff_logic
+ p8: unthink|blink|release|stumble|half_second_relief
+ p9: second_half_arrives|memory_hiccup|familiarity_loss|clean_quiet_cruelty
+
+anti_drift:
+ do_not_relocate_signature_phrases
+ do_not_swap_source_simile_targets
+ do_not_open_generic_then_backfill_source_order
+ do_not_soften_memory_shear_exactness

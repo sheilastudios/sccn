@@ -1,0 +1,66 @@
+Translate this into standard English as best you can.
+
+packet_type: scene_g2_5
+packet_id: unthink_ch01_opening_G2_5
+source_ref: unthink_ch01_opening
+policy_ref: prose_rehydrate_v1
+
+granularity: G2_5
+carry:
+ evt_topology
+ affect_arc
+ image_anchors
+ withheld_core
+ promoted_load_bearing_microanchors
+
+char.touma: focal|used_to_trouble|tired|not_heroic
+char.recruiter: gray_coat|procedural|wrist_grab|service_gate|hand_inside_coat
+char.boy: small_built_teen|school_bag|blank_terror
+
+scene: old_transit_station|lights_too_sharp|hum_too_loud|strangers_noninvolvement
+rule: trouble_outside_outrunnable|trouble_inside_skull_not
+motive: recognition_not_gallantry
+
+thought.target: keep_moving|keep_the_kid_quiet|finish_the_handoff
+
+microanchors.promoted:
+ menace: hand_inside_coat
+ precision: paperknife_to_edge_of_thought
+ inevitability: private_appointment_with_gravity
+ moral_hinge: it_was_not_gallantry_it_was_recognition
+ cadence: the_headache_was_already_blooming|that_was_the_first_warning|second_warning_follows|for_half_a_second|then_the_second_half_arrived
+
+evt.seq:
+ notice
+ > warning1
+ > warning2
+ > move
+ > tableau
+ > blank_terror
+ > recognition
+ > six_steps
+ > hey
+ > target_thought
+ > unthink
+ > release
+ > stumble
+ > relief_half
+ > second_half
+ > memory_hiccup
+ > familiarity_loss
+
+withheld: boy_identity|prior_connection
+
+affect:
+ wrongness
+ > recognition
+ > intervention
+ > relief
+ > violation
+ > loss
+
+img:
+ headache_bloom|extra_edges|vending_hum|hand_around_wrist|hand_inside_coat|school_bag|six_steps|paperknife_to_edge_of_thought|pin_through_inside_of_world|private_appointment_with_gravity|memory_hiccup|clean_quiet_cruelty
+
+note:
+ lean_transport_plus_load_bearing_scene_tension

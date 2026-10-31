@@ -1,0 +1,44 @@
+{
+ "request_id": "ch01_opening_only-s2",
+ "case_id": "ch01_opening_only",
+ "arm": "ch01_opening_only",
+ "replicate": 2,
+ "model": "gpt-6-luna",
+ "effort": "medium",
+ "request_sha256": "922dc56dc49f3a56452bb2708b76a8267913005c7c9bb894ff5f945c784b7bca",
+ "source_sha256": [
+  "9f6e719f466ea297c18c98ee6f66083c4d2cb9d0e16a4fcc4b82572023015f35"
+ ],
+ "started": "2026-10-22T05:47:04.529Z",
+ "content": "The old station lights were too sharp, and the hum from the vending machines was too loud. People passed by without getting involved.\n\nTouma knew trouble. Trouble outside your own head, you could outrun. The kind inside your skull was different.\n\nThe headache was already blooming. That was the first warning.\n\nA man in a gray coat had a boy by the wrist. The boy was small, built like a teenager, with a school bag slung over one shoulder. He looked terrified, but not in any way that showed on his face.\n\nThe man’s other hand was inside his coat.\n\nThe second warning came like a paper knife drawn to the edge of a thought.\n\nTouma moved.\n\nFor half a second, the scene held still: the gray coat, the hand around the boy’s wrist, the hand inside the coat, the school bag. Then the second half arrived.\n\nTouma saw the boy’s blank terror—and recognized something in it. It wasn’t gallantry. It was recognition.\n\nHe took six steps.\n\n“Hey.”\n\nKeep moving. Keep the kid quiet. Finish the handoff.\n\nTouma tried not to think.\n\nThen he let go.\n\nHe stumbled, and for half a second there was relief.\n\nThen the second half arrived: a pin driven through the inside of the world. The memory hiccupped. Something familiar slipped out of reach, leaving behind a clean, quiet cruelty.",
+ "finish": "stop",
+ "outcome": "content",
+ "model_returned": "gpt-6-luna",
+ "codexUsage": {
+  "total": {
+   "totalTokens": 4891,
+   "inputTokens": 4603,
+   "cachedInputTokens": 0,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 288,
+   "reasoningOutputTokens": 0
+  },
+  "last": {
+   "totalTokens": 4891,
+   "inputTokens": 4603,
+   "cachedInputTokens": 0,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 288,
+   "reasoningOutputTokens": 0
+  },
+  "modelContextWindow": 258400
+ },
+ "timing": {
+  "turnStartSentAt": "2026-10-22T05:47:05.566Z",
+  "turnStartAcknowledgedAt": "2026-10-22T05:47:05.573Z",
+  "turnStartedNotificationAt": "2026-10-22T05:47:05.573Z",
+  "terminalNotificationAt": "2026-10-22T05:47:10.293Z"
+ },
+ "elapsed_s": 5.813,
+ "incomplete": false
+}

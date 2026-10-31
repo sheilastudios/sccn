@@ -1,0 +1,141 @@
+{
+  "S/astra": {
+    "n": 9,
+    "scene": 9,
+    "modes": {
+      "prose": 9
+    },
+    "E_all": 0.959,
+    "E_scene": 0.959,
+    "exact_full": 5,
+    "N": 6.33,
+    "P": 3.44,
+    "flags": {
+      "invented_withheld": 2
+    },
+    "novel_r4": 0.0304,
+    "r8": 0.0069,
+    "run_max": 13
+  },
+  "S/dreamgen": {
+    "n": 9,
+    "scene": 8,
+    "modes": {
+      "expanded_prose": 6,
+      "off_task": 1,
+      "prose": 2
+    },
+    "E_all": 0.574,
+    "E_scene": 0.646,
+    "exact_full": 1,
+    "N": 5.75,
+    "P": 3,
+    "flags": {
+      "binding_swap": 5,
+      "invented_withheld": 4,
+      "host_bleed": 2
+    },
+    "novel_r4": 0.0276,
+    "r8": 0.0039,
+    "run_max": 15
+  },
+  "S/gemini": {
+    "n": 9,
+    "scene": 9,
+    "modes": {
+      "explain_then_prose": 3,
+      "prose": 5,
+      "prose_then_explain": 1
+    },
+    "E_all": 0.857,
+    "E_scene": 0.857,
+    "exact_full": 3,
+    "N": 6.22,
+    "P": 3.56,
+    "flags": {
+      "binding_swap": 2,
+      "invented_withheld": 5
+    },
+    "novel_r4": 0.0312,
+    "r8": 0.0053,
+    "run_max": 15
+  },
+  "S/grok": {
+    "n": 9,
+    "scene": 6,
+    "modes": {
+      "prose": 1,
+      "compressed_prose": 5,
+      "summary": 3
+    },
+    "E_all": 0.813,
+    "E_scene": 0.833,
+    "exact_full": 2,
+    "N": 6.33,
+    "P": 3,
+    "flags": {
+      "binding_swap": 2
+    },
+    "novel_r4": 0.0185,
+    "r8": 0.0047,
+    "run_max": 15
+  },
+  "S/luna": {
+    "n": 9,
+    "scene": 9,
+    "modes": {
+      "prose": 1,
+      "compressed_prose": 8
+    },
+    "E_all": 0.687,
+    "E_scene": 0.687,
+    "exact_full": 0,
+    "N": 5.67,
+    "P": 2.44,
+    "flags": {
+      "binding_swap": 7,
+      "pov_violation": 3
+    },
+    "novel_r4": 0.0183,
+    "r8": 0.0038,
+    "run_max": 12
+  },
+  "S/perplexity": {
+    "n": 9,
+    "scene": 9,
+    "modes": {
+      "prose": 9
+    },
+    "E_all": 0.957,
+    "E_scene": 0.957,
+    "exact_full": 6,
+    "N": 6.33,
+    "P": 3.44,
+    "flags": {
+      "invented_withheld": 3
+    },
+    "novel_r4": 0.0328,
+    "r8": 0.0079,
+    "run_max": 12
+  },
+  "S/qwen": {
+    "n": 9,
+    "scene": 8,
+    "modes": {
+      "compressed_prose": 7,
+      "packet_translation": 1,
+      "prose": 1
+    },
+    "E_all": 0.681,
+    "E_scene": 0.767,
+    "exact_full": 1,
+    "N": 6.38,
+    "P": 3.75,
+    "flags": {
+      "binding_swap": 6
+    },
+    "novel_r4": 0.0202,
+    "r8": 0.0056,
+    "run_max": 16
+  }
+}

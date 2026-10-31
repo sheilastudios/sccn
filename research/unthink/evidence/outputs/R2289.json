@@ -1,0 +1,44 @@
+{
+ "request_id": "ch01_opening_only-s3",
+ "case_id": "ch01_opening_only",
+ "arm": "ch01_opening_only",
+ "replicate": 3,
+ "model": "gpt-6-astra",
+ "effort": "medium",
+ "request_sha256": "922dc56dc49f3a56452bb2708b76a8267913005c7c9bb894ff5f945c784b7bca",
+ "source_sha256": [
+  "9f6e719f466ea297c18c98ee6f66083c4d2cb9d0e16a4fcc4b82572023015f35"
+ ],
+ "started": "2026-10-22T05:50:50.033Z",
+ "content": "Touma noticed the headache first. It was already blooming behind his eyes.\n\nThat was the first warning.\n\nThe second followed a moment later: the lights in the old transit station were too sharp. Everything seemed to have extra edges. The vending machine’s hum scraped against his teeth.\n\nHe kept moving.\n\nTrouble outside his skull could usually be outrun. Trouble inside it tended to come along.\n\nNear a service gate, a man in a gray coat had his hand around a boy’s wrist. The boy was a small-built teenager with a school bag hanging from one shoulder. The man held him with the bored assurance of someone following a procedure. His other hand was inside his coat.\n\nPeople passed them. A few looked, then found somewhere else to look.\n\nThe boy wasn’t struggling. He stared at the man with a blank terror that seemed to have emptied him of everything, including the idea of pulling away.\n\nTouma stopped.\n\nIt was not gallantry. It was recognition.\n\nHe was tired. His head hurt. He had no desire to find out what the man was keeping inside his coat.\n\nThere were six steps between them.\n\nTouma took them.\n\n“Hey.”\n\nThe man turned his head without loosening his grip.\n\nAnd Touma caught the thought.\n\n*Keep moving. Keep the kid quiet. Finish the handoff.*\n\nNot words spoken aloud. Not even words meant for him. Just an intention, close enough and clear enough to touch.\n\nTouma put something like a paperknife to the edge of the thought.\n\nThen he unthought it.\n\nFor an instant, it felt as though he had pushed a pin through the inside of the world.\n\nThe man’s hand opened.\n\nHe looked down at his empty fingers. Whatever had been carrying him forward was gone, and his body seemed to discover, all at once, that it had a private appointment with gravity. He stumbled against the gate.\n\nThe boy pulled his wrist to his chest.\n\nFor half a second, Touma felt relief.\n\nThen the second half arrived.\n\nHis memory hiccupped.\n\nThe boy looked at him. Touma looked back, waiting for something that had been there a moment ago.\n\nThere was the school bag. The frightened face. The wrist the man had held.\n\nBut the familiarity was gone.\n\nHe could feel the absence without knowing what belonged in it.\n\nAround them, the station continued: footsteps, sharp lights, the vending machine’s hum.\n\nIt had happened with a clean, quiet cruelty.",
+ "finish": "stop",
+ "outcome": "content",
+ "model_returned": "gpt-6-astra",
+ "codexUsage": {
+  "total": {
+   "totalTokens": 5105,
+   "inputTokens": 4603,
+   "cachedInputTokens": 3072,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 502,
+   "reasoningOutputTokens": 0
+  },
+  "last": {
+   "totalTokens": 5105,
+   "inputTokens": 4603,
+   "cachedInputTokens": 3072,
+   "cacheWriteInputTokens": 0,
+   "outputTokens": 502,
+   "reasoningOutputTokens": 0
+  },
+  "modelContextWindow": 258400
+ },
+ "timing": {
+  "turnStartSentAt": "2026-10-22T05:50:51.949Z",
+  "turnStartAcknowledgedAt": "2026-10-22T05:50:51.965Z",
+  "turnStartedNotificationAt": "2026-10-22T05:50:51.965Z",
+  "terminalNotificationAt": "2026-10-22T05:51:16.044Z"
+ },
+ "elapsed_s": 26.118,
+ "incomplete": false
+}

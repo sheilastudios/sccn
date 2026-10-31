@@ -1,0 +1,25 @@
+{
+ "model": "Qwen/Qwen3.8-27B",
+ "request": "ch05_slice2_only",
+ "sample": 1,
+ "max_tokens": 32000,
+ "temperature": 0.3,
+ "request_sha256": "e478912d7cf97a5863dfafaedd35d8e4e47b9fb6fbcd0815ef231d5a907fb240",
+ "started": "2026-10-22T01:40:19",
+ "finish": "stop",
+ "usage": {
+  "prompt_tokens": 1754,
+  "total_tokens": 19141,
+  "completion_tokens": 17387,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "created_cache_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 15487
+  }
+ },
+ "elapsed_s": 256.35,
+ "reasoning_chars": 0,
+ "incomplete": false
+}

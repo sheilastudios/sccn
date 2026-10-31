@@ -1,0 +1,143 @@
+
+
+Scene Packet
+
+Packet ID: unthink_ch05_slice1
+
+Source:
+- Work: Unthink
+- Chapter: 05: The Visible Problem
+- Slice: from “Touma wakes to visible Mio in the safehouse” to “Bad enough for you.”
+
+Rendering:
+- Point of view: Touma only.
+- Distance: tight close third person.
+- Tense: past.
+
+Characters and forces:
+- Touma: focal character. Baseline: embarrassed, hyperaware, trying to reclassify private weirdness as livable.
+- Mio: visible manifest presence. Baseline: offended, watchful, afraid but composed, learning the room’s rules in real time.
+- Nico: procedural follow-up. Baseline: trying too hard to be calm, rattled, operationally useful.
+- The absent clerk of the public world: implied social pressure continuing from outside.
+- The systems: nonhuman observer pressure. Baseline: cameras, biometrics, recognition filters.
+
+Setting:
+- Place: safehouse bedroom and doorway.
+- Scene: cheap rental carpet, suspicious beige ceiling, broken lamp, dust, instant coffee, cheap disinfectant, narrow floor strip, kitchenette counter.
+- Social: the private room is no longer private because visible Mio changes everything.
+
+Images:
+- A clerical error large enough to become visible.
+- The safe layer between the strange and the world is gone.
+- A hand passing through a knee.
+- A thought asking the room for permission before becoming motion.
+- Bad signal and unstable passwords.
+- The body treats her like the center of the room.
+- The doorway’s witness range.
+- Cameras, biometrics, active recognition filters.
+- A rude way to wake up.
+
+Withheld information:
+- Exact projection limits: unresolved.
+- How long the visibility state lasts: unresolved.
+- Who else can register her: only partially known.
+
+Wakeup state:
+- Touma: shocked, staring, face hot.
+- Mio: there anyway, checking the room for hidden teeth.
+- A normal private morning: unavailable.
+
+Embodiment state:
+- Mio’s movement: slight lag.
+- Visible fear: readable.
+- Accidental contact risk: high.
+- Social geometry: rewritten.
+
+Visibility state:
+- Witness rule: still active.
+- Other system detection: now possible.
+- Embarrassment: operationalized.
+
+Event sequence:
+1. Touma wakes to Mio in the corner.
+2. It is not a voice, not pressure, not private commentary.
+3. The argument is simply that she is there.
+4. The safehouse room is redescribed as a private wrongness.
+5. There is an exchange about stopping staring.
+6. He tries to see whether the shell vanishes when he blinks.
+7. Her visible presence means the safe layer is gone.
+8. He reaches for the blanket, and his hand passes through her knee.
+9. “Warn me before you do that.”
+10. “I didn’t mean to.” — “That’s what makes it worse.”
+11. “Can you feel anything?” — a broad question.
+12. “Physically or emotionally?”
+13. She acts like a person who understands him too well.
+14. “That was always the case.”
+15. Procedural memory returns in pieces.
+16. Visible Mio is more alive than audible Mio.
+17. He can see her fear now.
+18. She paces the small strip between the futon and the kitchenette.
+19. His body keeps treating her like the center of the room.
+20. The door opens, and Nico enters.
+21. “You’re both awake.”
+22. “You knew she could do that?” — “No, too fast.”
+23. The first problem outside the closed system talks back.
+24. The memory of the visible rule: Nico in the doorway.
+25. The limiter is stable for a moment; the projection is not stable.
+26. The projection is not a school presentation.
+27. A side effect like a person: a precision argument.
+28. She takes the side where they continue existing.
+29. Other systems may register her now.
+30. Cameras, biometrics, active recognition filters, maybe humans.
+31. “Bad enough for you.”
+
+Causal links:
+- Waking to visible Mio causes domestic embodiment shock.
+- Accidental contact causes boundary shock and new room rules.
+- Visibility plus microbehavior makes personness no longer abstract.
+- Pacing and glancing create room-center gravity.
+- Nico in the doorway under the visibility rule brings operational procedure into private space.
+- Other systems registering her expands the problem from the room to networked detection.
+
+Turning points:
+
+Domestic embodiment:
+- Touma wakes to Mio in the corner.
+- The safehouse bedroom now contains a visible impossible presence.
+- The safe layer between the strange and the world is gone.
+
+Accidental contact:
+- He reaches for the blanket, and his hand passes through her knee.
+- “Warn me before you do that.”
+- “I didn’t mean to.”
+- “That’s what makes it worse.”
+
+Visible personness:
+- She is more alive than when she was only audible.
+- Her shoulders tighten.
+- She takes a breath before answering.
+- She is deciding where to put her hands.
+- He can see her fear now.
+
+Room-center gravity:
+- His body treats her like the center of the room.
+- He keeps glancing toward her.
+- Being watched by her is now physical.
+- The problem is social, not tactical.
+
+Operational visibility:
+- The visible rule still governs the doorway.
+- Systems may register her now.
+- Cameras, biometrics, recognition filters.
+- “Bad enough for you.”
+- Private embarrassment expands into system risk.
+
+Emotional arc:
+The emotional arc moves from wake shock to embarrassed adjustment, then to a boundary jolt, a realization of personness, room reorientation, procedural follow-up, and operational escalation.
+
+Constraints:
+- Do not flatten visible Mio into a generic roommate.
+- Do not turn the accidental contact into simple slapstick.
+- Do not lose the private to systemic escalation.
+- Do not make Nico relaxed or unchanged by her presence.
+- Do not end on a generic warning instead of an expansion of detection pressure.

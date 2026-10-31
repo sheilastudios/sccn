@@ -1,0 +1,41 @@
+Scene packet translation (standard English)
+
+This is a tight close third-person past-tense scene focused only on Touma’s point of view. It takes place in a cheap safehouse bedroom and the edge of the hallway just outside the door. The air conditioner is quiet. There is a chair by a desk and the edge of a futon. Privacy is failing in stages.
+
+Touma is embarrassed, protective, and trying to offer something useful and human without overstepping. Mio is present under social pressure—sarcastic, afraid of being misclassified, determined not to be seen as a mistake. Nico is an uncomfortable procedural buffer who is decent enough to look away and is not built for this kind of intimacy; he soon becomes an absent witness. A support technician later appears as an accidental public witness—the wrong kind of miracle, a gossip vector, someone who will help build the social story. The system itself is no longer just surveillance; it is becoming a listening spatial presence.
+
+Mio looks away too quickly. Touma worries that people will classify her instead of seeing her. What follows is a public, not-normal exchange that feels like they are carefully removing pieces of a nervous system. Nico leaves because he is uncomfortable. The room becomes smaller once he is gone.
+
+Touma offers her a seat. They exchange a few haunted, projector-like remarks. Mio sits on the chair. It squeaks. Touma feels disproportionate relief that the furniture did not reject her; the mundane world is making space for her. She tells him not to make that face. He recognizes the fear under her jokes. He asks if she can eat, and realizes how many body-shaped unknowns still surround her. He wants to take her hand but stops himself. She notices he was about to ask something. Nico tries to leave, is briefly blocked, then allowed to go. Touma admits he was going to ask if it hurt. The room does a weird half-glitch thing, as if it is trying too hard to hold a shape that makes sense. He notices her finger twitch.
+
+They begin setting ground rules: no surprise touching; tell him if something hurts. She says she does not want to be a problem. He answers that people are problems in a human way. He offers that if she says something is wrong, he will listen. It is not trust yet, but she wants to believe it might be possible.
+
+Then the support technician enters—the wrong kind of miracle. “Who is that?” Mio goes perfectly still. Touma stands too fast and tells the tech it is not their business. Embarrassment and fear arrive together. He recognizes the gossip shift. He tells the person to leave. That was public, visible, humiliating. There is a dramatic-reveal quality to the moment; too many eyes, too late for rumor control. They ask what they will do if people start asking. The answer is that they will lie—spoken with a mix of disgust and affection. Mio says that if she is going to be seen, she refuses to be seen as a mistake. Touma answers that she is not a mistake. The sincerity is dangerous. She gives a small, shaky laugh. For one second the room becomes bearable.
+
+Then there is a soft scraping outside the room—not footsteps, not a door. It feels like a fingertip dragging on the other side of the wall, pressure in the plaster. A colder limiter pulse arrives as a warning. Mio says not to let the system decide what she is. The wall answers with a deeper scrape.
+
+Key emotional and causal hinges
+
+People classifying her makes the fear of social visibility explicit.
+The chair accepting her weight produces unexpected relief.
+His halted impulse to touch shows visible boundary respect.
+The listening offer creates a partial opening toward trust.
+The support tech’s entrance produces public humiliation.
+Public humiliation drives her identity-refusal statement.
+Dangerous sincerity plus the shaky laugh makes the room briefly bearable.
+Her warning against the system deciding what she is is answered by the uncanny wall presence.
+
+Exact bindings that must be preserved
+
+Touma is the one who offers to listen if something is wrong.
+Mio is the one who partially believes that offer.
+Mio is the one who refuses to be seen as a mistake.
+Touma is the one who rejects the “mistake” frame.
+
+Affect arc
+Social-visibility fear → furniture relief → body unknowns → fragile trust offer → public humiliation → identity defiance → tiny warmth → uncanny system hook.
+
+Constraints
+Do not turn the identity refusal into a generic self-esteem line. Do not flatten the public humiliation into a generic discovery moment. Do not let the laugh cancel the fear. Do not treat the wall scrape as generic horror without the classification pressure. Do not invert who offers the listening or who claims she is not a mistake.
+
+Unresolved elements: the exact social cover story, what the system is becoming here, and whether the wall presence is detection or an entity.
